@@ -15,6 +15,7 @@ Designing a circuit typically involves the following steps:
 3. Simulation  
 4. Final Status  
 5. Problem Statement  
+6. Solution
 
 ---
 
@@ -50,11 +51,10 @@ Possible outcomes after simulation:
 
 ## Problem Statement
 Build a circuit with no inputs and one output.  
-That output should always drive logic high (1).
+That output should always drive logic high (1).  
+🔗 [View Problem](https://hdlbits.01xz.net/wiki/Step_one)
 
 ---
 
-## 🔗 Solution and Reference
-
-- 📄 **Solution Code**: [View on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/1.%20Getting%20Started/1.1%20Getting%20Started/Getting%20Started.v)  
-- ❓ **Problem Link**: [Step One Problem](https://hdlbits.01xz.net/wiki/Step_one)
+## Solution
+📄 [View Solution Code](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/1.%20Getting%20Started/1.1%20Getting%20Started/Getting%20Started.v)
