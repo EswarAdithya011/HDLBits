@@ -1,12 +1,11 @@
-# Step One: IndexPreviousNextzero  
-**Welcome to HDLBits!**
+# Step One – Getting Started
 
-Getting started in digital logic design can be overwhelming at first because you need to learn new concepts, a new Hardware Description Language (e.g., Verilog), several new software packages, and often an FPGA board, all at the same time. HDLBits provides a way to practice designing and debugging simple circuits with a single click of "Simulate".
+Getting started in digital logic design can be overwhelming at first because you need to learn new concepts, a new Hardware Description Language (e.g., Verilog), several new software tools, and often an FPGA board—all at once. This task provides a simple way to practice designing and debugging basic circuits efficiently.
 
-Designing a circuit requires several steps:  
-- Writing HDL (Verilog) code  
-- Compiling the code to produce a circuit  
-- Simulating the circuit and fixing bugs  
+Designing a circuit typically involves the following steps:
+- Writing HDL (Verilog) code
+- Compiling the code to produce a circuit
+- Simulating the circuit and resolving any issues
 
 ---
 
@@ -20,47 +19,42 @@ Designing a circuit requires several steps:
 ---
 
 ## Writing Code
-The easiest way to write your code is to do so in the code editor box below. For this problem, we have filled in most of the code for you already. Go ahead and finish the code for this circuit.
-
-Click **Simulate** to compile and simulate your design.
+The best way to start is by using a code editor. For this task, most of the boilerplate was pre-filled. The remaining logic was completed based on the circuit’s functionality.
 
 ---
 
 ## Compiling (Logic Synthesis)
-Your code is compiled using **Altera Quartus** to produce a circuit. Quartus produces a large number of messages. Click **Show Quartus messages** to show/hide them. It's good practice to reduce the number of warnings, but it is sometimes not practical to remove them all.
+The code is compiled using synthesis tools that convert HDL into a digital logic circuit. These tools generate messages and warnings. Reducing warnings is good practice, though not always necessary for basic problems.
 
 ---
 
 ## Simulation
-Your compiled circuit is simulated to test whether it functions correctly. HDLBits use **ModelSim** to simulate your circuit and our reference solution in parallel, then compares the outputs of the modules. The simulation reports back two things:
+Once compiled, the circuit is simulated with test cases. The simulation compares the output of your circuit with a reference to identify any mismatches. The waveform visualization includes:
+- **Inputs**
+- **Your Outputs**
+- **Reference Outputs**
+- **Mismatch Indicators**
 
-1. It reports whether your circuit matches the reference circuit exactly (zero "mismatches") or how many "mismatches" occurred. A mismatch is the number of samples where the output of your circuit does not match the reference output.  
-2. It may produce timing diagrams that show your circuit outputs when running our test vectors. The simulation waveform is grouped into three sections: **"Inputs"**, **"Yours"**, and **"Ref"**. In a correct circuit, **"Your"** outputs will be the same as the **"Ref"** outputs. The **"Mismatch"** signals tell you which samples have a mismatch.
-
-> ⚠️ The module name and port names of the top-level `top_module` must **not** be changed, or you will get a simulation error.
+A correct circuit will have all outputs match exactly with the reference design.
 
 ---
 
 ## Final Status
-If your circuit was correct, you will see:
-
-**Status: Success!**
-
-There are a few other possibilities:
-
-- **Compile Error** — Circuit did not compile.  
-- **Simulation Error** — Circuit compiled successfully, but simulation did not complete.  
-- **Incorrect** — Circuit compiled and simulated, but the outputs did not match the reference.  
-- **Success!** — Circuit was correct
-
-You can track or share your progress on the **My Stats** page.
+Possible outcomes after simulation:
+- ✅ **Success!** — Your circuit is correct.
+- ❌ **Compile Error** — Your code failed to compile.
+- ❗ **Simulation Error** — Compiled, but simulation did not complete.
+- ⚠️ **Incorrect** — Outputs didn’t match the expected behavior.
 
 ---
 
 ## Problem Statement
-We're going to start with a small bit of HDL to get familiar with the interface used by HDLBits. Here's the description of the circuit you need to build for this exercise:
+Build a circuit with no inputs and one output.  
+That output should always drive logic high (1).
 
-> Build a circuit with no inputs and one output. That output should always drive `1` (or logic high).  
+---
 
-📌 **Expected solution length:** Around 1 line.
+## 🔗 Solution and Reference
 
+- 📄 **Solution Code**: [View on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/1.%20Getting%20Started/1.1%20Getting%20Started/Getting%20Started.v)  
+- ❓ **Problem Link**: [Step One Problem](https://hdlbits.01xz.net/wiki/Step_one)
