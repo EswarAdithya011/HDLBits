@@ -12,6 +12,7 @@ Create a module that connects the input directly to the output using a continuou
 
 🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Wire)
 
+
 ---
 
 ### Solution  
