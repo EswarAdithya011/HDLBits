@@ -21,5 +21,5 @@ Create a module with the following connections:
 ### Solution  
 📄 [View Solution Code](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.1%20Basics/2.1.2%20Four%20wires/Four%20wires.v)
 
-<img width="690" alt="{D9047D5C-DA7B-43E1-8254-42FDBC11A35C}" src="https://github.com/user-attachments/assets/a8bf3ff1-e1fb-4eb2-bbf3-8a1fa8bb66da" />
+<img width="500" alt="{D9047D5C-DA7B-43E1-8254-42FDBC11A35C}" src="https://github.com/user-attachments/assets/a8bf3ff1-e1fb-4eb2-bbf3-8a1fa8bb66da" />
 
