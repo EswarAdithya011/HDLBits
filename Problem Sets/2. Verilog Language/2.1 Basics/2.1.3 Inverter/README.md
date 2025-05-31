@@ -10,7 +10,7 @@ Implement an inverter circuit using Verilog HDL. The module must invert the inpu
 📘 *Concept Insight:*  
 In Verilog, `assign` statements represent continuous assignments, ensuring that output logic always reflects any changes to the input in real-time, akin to actual physical hardware behavior.
 
-![image](https://github.com/user-attachments/assets/b00e752b-eab6-40c4-b81d-b215390a7aed)
+  ![image](https://github.com/user-attachments/assets/b00e752b-eab6-40c4-b81d-b215390a7aed)
 
 
 🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Notgate)
