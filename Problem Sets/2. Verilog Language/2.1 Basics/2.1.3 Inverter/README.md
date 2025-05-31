@@ -15,7 +15,7 @@ In Verilog, `assign` statements represent continuous assignments, ensuring that 
 
 🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Notgate)
 
-<img width="684" alt="{C6BCA1D0-985B-4A71-BECD-4BE3DCFC9B43}" src="https://github.com/user-attachments/assets/86f2af94-e2e6-4e9d-9a01-d40d89d8f582" />
+<img width="721" alt="{C6BCA1D0-985B-4A71-BECD-4BE3DCFC9B43}" src="https://github.com/user-attachments/assets/86f2af94-e2e6-4e9d-9a01-d40d89d8f582" />
 
 ---
 
