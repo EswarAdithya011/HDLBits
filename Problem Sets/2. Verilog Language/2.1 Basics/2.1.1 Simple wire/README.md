@@ -18,4 +18,7 @@ Create a module that connects the input directly to the output using a continuou
 ### Solution  
 📄 [View Solution Code](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.1%20Basics/2.1.1%20Simple%20wire/Simple%20wire.v)
 
+<img width="383" alt="{6234B215-ED29-4944-9AEA-9A8B81D69376}" src="https://github.com/user-attachments/assets/a8b47c8b-f596-4300-8a81-efe0a96602f6" />
+
+
 
