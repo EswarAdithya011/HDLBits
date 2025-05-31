@@ -10,7 +10,9 @@ Construct a simple logic circuit that implements the behavior of an AND gate usi
 📘 *Concept Insight:*  
 Verilog allows bitwise (`&`) and logical (`&&`) operators. While both are valid for single-bit signals in this context, understanding their distinction is crucial for multi-bit or vector operations later on.
 
-![image](https://github.com/user-attachments/assets/18ca560b-682c-4d94-beff-eda5d5df2ac2)
+
+<img width="586" alt="{31E541BB-6CBC-40AB-978C-6B9922425FB2}" src="https://github.com/user-attachments/assets/7e8e450e-0941-4ff3-a866-54cca9e1d70c" />
+
 
 🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Andgate)
 
