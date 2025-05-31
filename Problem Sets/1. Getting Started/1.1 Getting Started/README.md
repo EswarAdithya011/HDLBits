@@ -59,5 +59,5 @@ That output should always drive logic high (1).
 ## Solution
 📄 [View Solution Code](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/1.%20Getting%20Started/1.1%20Getting%20Started/Getting%20Started.v)
 
-<img width="381" alt="{2FFD48B0-270C-4182-BAE7-23F51E494847}" src="https://github.com/user-attachments/assets/1192c7a5-4826-4626-a3d0-029d87a672e0" />
+<img width="650" alt="{2FFD48B0-270C-4182-BAE7-23F51E494847}" src="https://github.com/user-attachments/assets/1192c7a5-4826-4626-a3d0-029d87a672e0" />
 
