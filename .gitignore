@@ -1,1 +1,6 @@
+# Ignore README files
+README*
+readme*
 
+# Ignore temporary files
+*.tmp
