@@ -17,7 +17,7 @@ While input and output ports are implicitly treated as wires, internal connectio
 ---
 
 ### Solution  
-📄 [View Solution Code](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.1%20Basics/2.1.7%20Wire%20Declaration/Wire%20Decl.v)
+📄 [View Solution Code](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.1%20Basics/2.1.7%20Declaring%20wires/Declaring%20wires.v)
 
 <img width="450" alt="{5A9D7DAD-AC62-40FB-B4CD-6894822478AD}" src="https://github.com/user-attachments/assets/48026f4b-9a28-42e4-a232-44e04139f45e" />
 
