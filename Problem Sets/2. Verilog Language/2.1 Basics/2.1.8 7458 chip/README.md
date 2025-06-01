@@ -20,7 +20,7 @@ This exercise emphasizes how **intermediate wires** act as internal connections 
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.1%20Basics/2.1.10%207458/7458%20chip.v)
+📄 [View Solution Code](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.1%20Basics/2.1.8%207458%20chip/7458%20chip.v)
 
 <img width="615" alt="{A16059E5-4076-48DF-AE78-A0AE9BB17457}" src="https://github.com/user-attachments/assets/4b445e0b-2e25-422e-a583-3565d85fa04c" />
 
