@@ -23,8 +23,3 @@ While input and output ports are implicitly treated as wires, internal connectio
 
 🛠 *Design Note:*  
 This problem introduces practical design habits in HDL development—declaring clean internal connections and structuring logic in readable layers. Using intermediate wires not only makes debugging easier but also reflects real-world schematic design practices.
-
----
-
-✅ *Recommended For:*  
-Students developing structured coding techniques in Verilog and seeking clarity on internal signal declaration and logic block interconnects.
