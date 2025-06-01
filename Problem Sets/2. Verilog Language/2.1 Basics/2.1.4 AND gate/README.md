@@ -26,9 +26,3 @@ Verilog allows bitwise (`&`) and logical (`&&`) operators. While both are valid 
 
 🛠 *Design Note:*  
 This exercise emphasizes signal driving in Verilog. Inputs are driven externally, while the output must be actively driven internally using a continuous assignment (`assign`). This teaches foundational concepts of driver-sink relationships and logic synthesis.
-
----
-
-✅ *Recommended For:*  
-Learners building an understanding of gate-level modeling and HDL syntax for basic logic operations.
-
