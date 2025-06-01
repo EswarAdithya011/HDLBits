@@ -23,5 +23,3 @@ This exercise highlights compound logic operations using Verilog’s bitwise ope
 
 🛠 *Design Note:*  
 This problem reinforces the idea of continuous assignments in combinational circuits. Understanding how XOR and inversion interplay is key to mastering logical equality operations in RTL design.
-
----
