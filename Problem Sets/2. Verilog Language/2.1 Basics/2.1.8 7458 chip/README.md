@@ -28,7 +28,3 @@ This exercise emphasizes how **intermediate wires** act as internal connections 
 - Reinforces the practice of structuring logic with clearly named intermediate wires.
 - Useful for building confidence in organizing and debugging combinational circuits in HDL.
 
----
-
-Let me know if you want a similar section for the next HDLBits problem like wire_decl or vector0.
-
