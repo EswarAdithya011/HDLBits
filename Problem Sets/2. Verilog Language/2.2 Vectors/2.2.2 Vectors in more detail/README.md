@@ -20,7 +20,7 @@ Vectors in Verilog are declared as `type [upper:lower] vector_name;`, where `typ
 ---
 
 ### Solution  
-📄 [View Solution Code](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.1%20Basics/2.1.5%20Vector/Vector.v)
+📄 [View Solution Code](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.2%20Vectors/2.2.2%20Vectors%20in%20more%20detail/Vectors%20in%20more%20detail.v)
 
 <img width="668" alt="{604868F4-CF5D-49CB-B149-5DFE71B4B68A}" src="https://github.com/user-attachments/assets/22a8a07f-7d8a-4758-8669-e0f8137dda9e" />
 
