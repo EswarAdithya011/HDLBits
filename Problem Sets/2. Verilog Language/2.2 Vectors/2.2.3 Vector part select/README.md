@@ -22,7 +22,7 @@ This operation is useful for converting between different endianness formats, su
 ### Solution  
 📄 [View Solution Code](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.2%20Vectors/2.2.2%20Vectors%20in%20more%20detail/Vector2.v)
 
-<img width="641" alt="{37A80EE7-7063-492C-BF2F-C8EFCA33F369}" src="https://github.com/user-attachments/assets/158260db-9b17-4862-895a-72c86d761975" />
+<img width="700" alt="{A4C19495-670B-46FD-A4D1-E14705E92359}" src="https://github.com/user-attachments/assets/d9dc26c6-8b41-482d-96a4-3253777a36c6" />
 
 🛠 *Design Note:*  
 Using the part-select operator `[high_bit:low_bit]` allows precise access and assignment of individual bytes within a 32-bit vector. Reversing byte order by swapping these byte slices is a fundamental operation in digital systems that handle multiple endianness standards.
