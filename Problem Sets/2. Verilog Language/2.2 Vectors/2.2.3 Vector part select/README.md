@@ -20,7 +20,7 @@ This operation is useful for converting between different endianness formats, su
 ---
 
 ### Solution  
-📄 [View Solution Code](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.2%20Vectors/2.2.2%20Vectors%20in%20more%20detail/Vector2.v)
+📄 [View Solution Code](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.2%20Vectors/2.2.3%20Vector%20part%20select/Vector%20part%20select.v)
 
 <img width="700" alt="{A4C19495-670B-46FD-A4D1-E14705E92359}" src="https://github.com/user-attachments/assets/d9dc26c6-8b41-482d-96a4-3253777a36c6" />
 
