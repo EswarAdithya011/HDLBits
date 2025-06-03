@@ -22,7 +22,7 @@ Build a module with:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.1%20Basics/2.1.6%20Vectorr/Vectorr.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.2%20Vectors/2.2.7%20Vector%20reversal%201/Vectorr.v)
 
 <img width="500" alt="{49817D68-00CB-4439-893A-4621470EDB17}" src="https://github.com/user-attachments/assets/dc2a590e-0d84-49ce-9dbe-c2ad8a2720f7" />
 
