@@ -18,12 +18,14 @@ Build a module with:
 - Five **1-bit inputs**: `a`, `b`, `c`, `d`, `e`  
 - A **25-bit output vector** `out` where each bit `out[i]` indicates whether the respective pair of inputs are equal.
 
+<img width="600" alt="{6F804A54-3589-47FD-A510-B285CDA3527D}" src="https://github.com/user-attachments/assets/a22cbbb1-7173-4805-b375-dd411c94b0e5" />
+
 🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Vector5)
 
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.1%20Basics/2.1.8%20Vector5/Vector5.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.2%20Vectors/2.2.9%20More%20replication/Vector5.v)
 
 ---
 
