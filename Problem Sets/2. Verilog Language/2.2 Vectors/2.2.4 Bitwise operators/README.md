@@ -33,7 +33,7 @@ Build a module with:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.1%20Basics/2.1.7%20Vectorgates/Vectorgates.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.2%20Vectors/2.2.4%20Bitwise%20operators/Bitwise%20operators.v)
 
 <img width="616" alt="{0B2ADEAC-6AFD-4A16-8C5B-AC4C15866F88}" src="https://github.com/user-attachments/assets/25686da4-dae2-42d6-8e1b-94dbf1989c66" />
 
