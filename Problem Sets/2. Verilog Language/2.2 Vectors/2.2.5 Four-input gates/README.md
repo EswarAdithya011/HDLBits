@@ -26,7 +26,7 @@ Build a combinational circuit with:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.1%20Basics/2.1.8%20Gates4/Gates4.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.2%20Vectors/2.2.5%20Four-input%20gates/Four-input%20gates.v)
 
 <img width="586" alt="{1EE9B823-9A8B-48A3-A2A3-5F35A6935313}" src="https://github.com/user-attachments/assets/517f62b7-0788-496a-852f-219eecd66ee5" />
 
