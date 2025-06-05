@@ -28,7 +28,7 @@ Build a module that:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.2%20Modules/2.2.1%20Module/Module.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.3%20Modules%3A%20Hierarchy/2.3.1%20Modules/Module.v)
 
 <img width="500" alt="{8A7FDB41-86D4-451F-ABD0-058B189AC611}" src="https://github.com/user-attachments/assets/ee0f7210-5533-4a9e-98f9-293c00db6441" />
 
