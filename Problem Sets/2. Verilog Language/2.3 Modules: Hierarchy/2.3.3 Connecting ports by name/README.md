@@ -27,9 +27,9 @@ Create a module that:
 | in3          | c                 |
 | in4          | d                 |
 
-🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Module_name)
-
 <img width="622" alt="{DE565E0C-5F8B-4CDE-907E-34B2C8F59C2E}" src="https://github.com/user-attachments/assets/614946d8-7a73-4e85-896c-c43cc6403844" />
+
+🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Module_name)
 
 ---
 
