@@ -29,7 +29,7 @@ Construct a shift register using:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.2%20Modules/2.2.4%20Module_Shift/Module_shift.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.3%20Modules%3A%20Hierarchy/2.3.4%20Three%20modules/Module%20shift.v)
 
 <img width="600" alt="{6CCC49D3-165E-49E7-A0B6-6309470A4F2E}" src="https://github.com/user-attachments/assets/8b0b1b77-9645-440e-8e05-ebe9c8866744" />
 
