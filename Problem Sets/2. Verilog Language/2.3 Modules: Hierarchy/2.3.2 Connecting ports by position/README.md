@@ -25,7 +25,7 @@ Create a module that:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.2%20Modules/2.2.2%20Module_Pos/Module_pos.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.3%20Modules%3A%20Hierarchy/2.3.2%20Connecting%20ports%20by%20position/Module%20pos.v)
 
 <img width="563" alt="{2DE144C7-B061-4F26-8D42-3D3BBD87C7DA}" src="https://github.com/user-attachments/assets/91f79044-8e71-4b60-8ada-ceeae691c5ee" />
 
