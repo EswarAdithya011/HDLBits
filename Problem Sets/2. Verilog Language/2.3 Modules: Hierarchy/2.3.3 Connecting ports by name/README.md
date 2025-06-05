@@ -34,7 +34,7 @@ Create a module that:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.2%20Modules/2.2.3%20Module_Name/Module_name.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.3%20Modules%3A%20Hierarchy/2.3.3%20Connecting%20ports%20by%20name/Module%20name.v)
 
 <img width="600" alt="{1D6C805D-551D-4B65-A550-8CB5896637E0}" src="https://github.com/user-attachments/assets/794a6f73-5a9f-4a10-a113-49b1d2fdfa45" />
 
