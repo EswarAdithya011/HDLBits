@@ -22,7 +22,7 @@ Construct a shift register using:
   - Output: `q1`, `q2`, `q3`
   - Chain them as: `d → q1 → q2 → q3`
 
-<img width="629" alt="{ECD2B52B-FF53-4F47-8FC3-4722E22EB16C}" src="https://github.com/user-attachments/assets/c2f346af-56ba-4411-b258-1c1b5d3efe39" />
+<img width="679" alt="{ECD2B52B-FF53-4F47-8FC3-4722E22EB16C}" src="https://github.com/user-attachments/assets/c2f346af-56ba-4411-b258-1c1b5d3efe39" />
 
 🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Module_shift)
 
@@ -31,7 +31,7 @@ Construct a shift register using:
 ### ✅ Solution  
 📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.3%20Modules%3A%20Hierarchy/2.3.4%20Three%20modules/Module%20shift.v)
 
-<img width="600" alt="{6CCC49D3-165E-49E7-A0B6-6309470A4F2E}" src="https://github.com/user-attachments/assets/8b0b1b77-9645-440e-8e05-ebe9c8866744" />
+<img width="700" alt="{6CCC49D3-165E-49E7-A0B6-6309470A4F2E}" src="https://github.com/user-attachments/assets/8b0b1b77-9645-440e-8e05-ebe9c8866744" />
 
 ---
 
