@@ -32,7 +32,7 @@ Build a 32-bit adder with:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.2%20Modules/2.2.6%20Module_Add/Module_add.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.3%20Modules%3A%20Hierarchy/2.3.6%20Adder%201/module_add.v)
 
 <img width="463" alt="{6780CD5B-EE4E-422B-AF0C-1A711B29EE96}" src="https://github.com/user-attachments/assets/5f9a511f-935b-4d80-9774-03714dfb06b3" />
 
