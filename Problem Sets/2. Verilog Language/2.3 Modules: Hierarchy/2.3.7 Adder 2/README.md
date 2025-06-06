@@ -23,7 +23,7 @@ Build a 32-bit hierarchical adder that includes:
 - A self-defined module `add1` implementing a 1-bit full adder
 - Internal carry chaining between modules
 
-<img width="650" alt="{625A5D64-0CB4-4BF4-949D-F81DEFB0D224}" src="https://github.com/user-attachments/assets/434dfe3a-54cf-457d-b52d-44098e9c30a6" />
+<img width="450" alt="{625A5D64-0CB4-4BF4-949D-F81DEFB0D224}" src="https://github.com/user-attachments/assets/434dfe3a-54cf-457d-b52d-44098e9c30a6" />
 
 🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Module_fadd)
 
