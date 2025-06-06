@@ -33,7 +33,7 @@ Design a top-level module that:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.2%20Modules/2.2.5%20Module_Shift8/Module_shift8.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.3%20Modules%3A%20Hierarchy/2.3.5%20Modules%20and%20vectors/module_shift8.v)
 
 <img width="700" alt="{F67B90FF-97DE-454B-8CE4-B277ABFB96EC}" src="https://github.com/user-attachments/assets/f5b7885a-fc3b-43ff-bb1e-bb2940c9bb7a" />
 
