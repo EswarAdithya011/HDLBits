@@ -30,7 +30,7 @@ Build a 32-bit hierarchical adder that includes:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.2%20Modules/2.2.7%20Module_FAdd/Module_fadd.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.3%20Modules%3A%20Hierarchy/2.3.7%20Adder%202/module_fadd.v)
 
 <img width="504" alt="{420CBDDA-8264-4A96-B538-9F10282994B0}" src="https://github.com/user-attachments/assets/001e57f4-5b95-42d1-a736-b8805d5b3063" />
 
