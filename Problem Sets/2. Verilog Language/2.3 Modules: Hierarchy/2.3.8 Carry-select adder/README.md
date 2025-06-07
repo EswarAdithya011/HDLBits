@@ -30,6 +30,8 @@ Build a **32-bit Carry Select Adder** using:
 ### ✅ Solution  
 📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.3%20Modules%3A%20Hierarchy/2.3.8%20Carry-select%20adder/module_cseladd.v)
 
+<img width="500" alt="{D1FC1A84-C553-4A35-BB71-139F2DBB46B0}" src="https://github.com/user-attachments/assets/fc5186c2-9581-4ab8-8057-a3df1ebe9a3f" />
+
 ---
 
 ### 🛠 Design Note  
