@@ -31,7 +31,7 @@ This simulates a basic 2-input **AND gate** using both styles.
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.3%20Procedures/2.3.1%20AlwaysBlock1/AlwaysBlock1.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.4%20Procedures/2.4.1%20Always%20blocks%20(combinational)/alwaysblock1.v)
 
 <img width="500" alt="{801E0EA4-85B6-40CE-96D7-DB98DED34B63}" src="https://github.com/user-attachments/assets/bfaa5c09-3702-4d05-9059-746fda621661" />
 
