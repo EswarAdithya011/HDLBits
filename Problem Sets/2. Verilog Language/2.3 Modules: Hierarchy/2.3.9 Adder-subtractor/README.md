@@ -32,7 +32,7 @@ Design a **32-bit adder-subtractor** using:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.2%20Modules/2.2.9%20Module_AddSub/Module_addsub.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.3%20Modules%3A%20Hierarchy/2.3.9%20Adder-subtractor/module_addsub.v)
 
 <img width="579" alt="{F6ECC51C-ECD3-431F-94AF-38D70EEC2DB9}" src="https://github.com/user-attachments/assets/3ae7b046-dda4-4453-99b8-7a24d268e36d" />
 
