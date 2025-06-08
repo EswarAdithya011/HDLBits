@@ -30,7 +30,7 @@ Observe how `out_always_ff` introduces a **one-cycle delay** due to clocking.
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.3%20Procedures/2.3.2%20AlwaysBlock2/AlwaysBlock2.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.4%20Procedures/2.4.2%20Always%20blocks%20(clocked)/alwaysblock2.v)
 
 <img width="500" alt="{DEC4E57D-1D3C-4BBF-8BAC-88B2A8EB65B4}" src="https://github.com/user-attachments/assets/ad3a591a-ad3f-4e28-a73f-128eafe5da71" />
 
