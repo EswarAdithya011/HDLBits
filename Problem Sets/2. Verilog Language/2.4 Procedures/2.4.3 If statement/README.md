@@ -31,7 +31,7 @@ The logic:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.3%20Procedures/2.3.3%20Always_if/Always_if.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.4%20Procedures/2.4.3%20If%20statement/always_if.v)
 
 <img width="480" alt="{50DAD15A-76F2-439B-BD88-4F6E47D2F2EA}" src="https://github.com/user-attachments/assets/03fe82a0-ec69-4664-9167-463da7268d32" />
 
