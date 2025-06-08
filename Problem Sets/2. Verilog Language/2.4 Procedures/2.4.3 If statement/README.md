@@ -24,7 +24,7 @@ The logic:
 - Output `b` if both `sel_b1` and `sel_b2` are 1.
 - Otherwise, output `a`.
 
-<img width="500" alt="{9266FD38-6F15-4BBC-A914-5D6A66FD7FF6}" src="https://github.com/user-attachments/assets/2bf3ca9c-3a37-4656-983a-61216675ca8a" />
+<img width="300" alt="{9266FD38-6F15-4BBC-A914-5D6A66FD7FF6}" src="https://github.com/user-attachments/assets/2bf3ca9c-3a37-4656-983a-61216675ca8a" />
 
 🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Always_if)
 
@@ -33,7 +33,7 @@ The logic:
 ### ✅ Solution  
 📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.3%20Procedures/2.3.3%20Always_if/Always_if.v)
 
-<img width="280" alt="{50DAD15A-76F2-439B-BD88-4F6E47D2F2EA}" src="https://github.com/user-attachments/assets/03fe82a0-ec69-4664-9167-463da7268d32" />
+<img width="480" alt="{50DAD15A-76F2-439B-BD88-4F6E47D2F2EA}" src="https://github.com/user-attachments/assets/03fe82a0-ec69-4664-9167-463da7268d32" />
 
 ---
 
