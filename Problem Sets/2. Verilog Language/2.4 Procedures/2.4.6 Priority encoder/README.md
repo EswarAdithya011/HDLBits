@@ -32,7 +32,7 @@ Examples:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.3%20Procedures/2.3.6%20Always_case/Priority_encoder.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.4%20Procedures/2.4.6%20Priority%20encoder/always_case2.v)
 
 <img width="658" alt="{BD475FE8-1D63-4422-A7B8-7F901722D53E}" src="https://github.com/user-attachments/assets/e6a900ef-4d03-4672-b7c5-20fcc0ac6800" />
 
