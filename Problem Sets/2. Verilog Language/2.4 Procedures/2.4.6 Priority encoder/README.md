@@ -27,7 +27,7 @@ Examples:
 - `in = 4'b0001` → `pos = 2'b00`
 - `in = 4'b0000` → `pos = 2'b00` (default case)
 
-🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Priority_encoder)
+🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Always_case2)
 
 ---
 
