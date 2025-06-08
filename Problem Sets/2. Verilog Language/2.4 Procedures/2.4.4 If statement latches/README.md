@@ -26,7 +26,7 @@ You are given incorrect behavioral code that causes latch inference due to missi
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.3%20Procedures/2.3.4%20Always_if2/Always_if2.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.4%20Procedures/2.4.4%20If%20statement%20latches/always_if2.v)
 
 <img width="500" alt="{FAE5CB5F-2598-4D6A-B284-2382CFF9CCE8}" src="https://github.com/user-attachments/assets/1b8349c5-caa6-49de-b7df-5c2b50baae5d" />
 
