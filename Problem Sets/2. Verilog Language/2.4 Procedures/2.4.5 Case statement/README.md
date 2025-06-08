@@ -43,7 +43,7 @@ end
 ### ✅ Solution  
 📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.4%20Procedures/2.4.5%20Case%20statement/always_case.v)
 
-<img width="500" alt="{630D0E03-FEA0-4B7D-B367-0794E953F148}" src="https://github.com/user-attachments/assets/c67c34dd-c335-4d6f-81c3-653a2fba04e1" />
+<img width="400" alt="{630D0E03-FEA0-4B7D-B367-0794E953F148}" src="https://github.com/user-attachments/assets/c67c34dd-c335-4d6f-81c3-653a2fba04e1" />
 
 ---
 
