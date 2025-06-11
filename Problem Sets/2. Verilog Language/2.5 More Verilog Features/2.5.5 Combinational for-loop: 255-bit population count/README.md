@@ -24,7 +24,7 @@ Design a circuit to perform the following:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.4%20Vector/2.4.2%20Popcount255/Popcount255.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.5%20More%20Verilog%20Features/2.5.5%20Combinational%20for-loop%3A%20255-bit%20population%20count/popcount255.v)
 
 <img width="605" alt="{AD068124-C0BC-4B3C-A88F-525A02F9DD21}" src="https://github.com/user-attachments/assets/1e218d01-62ff-4a76-b134-491d0fdc3548" />
 
