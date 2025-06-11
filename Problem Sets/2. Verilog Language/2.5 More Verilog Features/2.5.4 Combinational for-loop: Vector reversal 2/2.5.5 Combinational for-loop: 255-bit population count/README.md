@@ -26,7 +26,7 @@ Design a circuit to perform the following:
 ### ✅ Solution  
 📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.4%20Vector/2.4.2%20Popcount255/Popcount255.v)
 
-![image](https://github.com/user-attachments/assets/c4c11d97-5a86-44a3-9849-84fbc98f7f8a)
+<img width="502" alt="{267F8AD4-C2BE-4638-9E73-BFE7F6CB97EE}" src="https://github.com/user-attachments/assets/12dec2b8-8291-4549-ad97-7480e351010c" />
 
 ---
 
