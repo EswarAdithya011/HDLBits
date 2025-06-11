@@ -24,7 +24,7 @@ Design a circuit that takes a 100-bit vector input and outputs the reversed vers
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub]()
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.5%20More%20Verilog%20Features/2.5.4%20Combinational%20for-loop%3A%20Vector%20reversal%202/vector100r.v)
 
 ---
 
