@@ -28,7 +28,7 @@ Design a BCD adder as follows:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.4%20Vector/2.4.4%20Bcdadd100/Bcdadd100.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Verilog%20Language/2.5%20More%20Verilog%20Features/2.5.7%20Generate%20for-loop%3A%20100-digit%20BCD%20adder/bcdadd100.v)
 
 ---
 
