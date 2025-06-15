@@ -13,6 +13,8 @@ You are expected to produce a fixed output value, which is common in test benche
 - **Output**:  
   - `out`: A 1-bit output that is hard-wired to a logic constant
 
+<img width="350" alt="{67715380-C470-4F93-BAD7-3BED3988F7A3}" src="https://github.com/user-attachments/assets/f214b71e-0708-4ec6-8421-39a59bc477c4" />
+
 🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Exams/m2014_q4i)
 
 ---
