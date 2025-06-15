@@ -22,7 +22,7 @@ This is an **AND gate** where the second input is first inverted. It is commonly
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/3.4%20Exams/m2014_q4f.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.1%20Basic%20gates/3.1.4%20Another%20gate/m2014_q4f.v)
 
 ---
 
