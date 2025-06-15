@@ -21,7 +21,7 @@ A NOR gate outputs logic high (`1`) only when **both inputs are low (`0`)**. It 
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/3.4%20Exams/m2014_q4e.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.1%20Basic%20gates/3.1.3%20NOR/m2014_q4e.v)
 
 ---
 
