@@ -28,7 +28,7 @@ The 7420 chip has two such gates:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Circuits/2.1%20Gates/7420.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.1%20Basic%20gates/3.1.7%207420%20chip/7420.v)
 
 <img width="616" alt="{AA4F1A7A-3122-46F8-8343-391432760CCC}" src="https://github.com/user-attachments/assets/3de42eba-6d16-4ae0-8612-7e62e56db129" />
 
