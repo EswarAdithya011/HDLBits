@@ -27,7 +27,7 @@ This structure is useful in parity checks and conditional inversion scenarios.
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/3.4%20Exams/m2014_q4g.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.1%20Basic%20gates/3.1.5%20Two%20gates/m2014_q4g.v)
 
 ---
 
