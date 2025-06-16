@@ -22,7 +22,7 @@ This structure is useful in parity checks and conditional inversion scenarios.
 - **Output**:  
   - `out`: XOR of XNOR(in1, in2) and in3
 
-<img width="349" alt="{655641F3-B027-4D99-97F6-440A81137AE8}" src="https://github.com/user-attachments/assets/2c22c608-6d0e-40fb-b52a-e76fc128344c" />
+<img width="450" alt="{655641F3-B027-4D99-97F6-440A81137AE8}" src="https://github.com/user-attachments/assets/2c22c608-6d0e-40fb-b52a-e76fc128344c" />
 
 🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Exams/m2014_q4g)
 
