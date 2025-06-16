@@ -24,6 +24,8 @@ These gates form the foundational logic operations in digital circuits.
 - **Outputs**:  
   - `out_and`, `out_or`, `out_xor`, `out_nand`, `out_nor`, `out_xnor`, `out_anotb`: Logic gates as described above
 
+<img width="450" alt="{9C0CBCC5-4C9C-4AC5-BBE7-9C57E493DEF8}" src="https://github.com/user-attachments/assets/232500ed-e7af-4fc8-9fd6-249e3ed827b9" />
+
 🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Gates)
 
 ---
