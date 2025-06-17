@@ -24,7 +24,7 @@ This logic can also be interpreted as a conditional XOR, masked by the value of 
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Circuits/2.1%20Gates/Mt2015_q4a.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.1%20Basic%20gates/3.1.10%20Simple%20circuit%20A/mt2015_q4a.v)
 
 ---
 
