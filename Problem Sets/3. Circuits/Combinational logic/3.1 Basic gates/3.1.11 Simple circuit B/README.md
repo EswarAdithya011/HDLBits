@@ -26,7 +26,7 @@ XNOR gates are frequently used in equality comparison and parity checking circui
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Circuits/2.1%20Gates/Mt2015_q4b.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.1%20Basic%20gates/3.1.11%20Simple%20circuit%20B/mt2015_q4b.v)
 
 <img width="500" alt="{AB81B990-286D-429C-9DDB-3BCF6C22C974}" src="https://github.com/user-attachments/assets/47b5c268-395a-4e4d-91aa-5daa88dceccb" />
 
