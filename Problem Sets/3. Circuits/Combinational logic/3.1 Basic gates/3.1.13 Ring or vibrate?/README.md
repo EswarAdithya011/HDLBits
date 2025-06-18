@@ -33,7 +33,7 @@ This ensures the device either rings **or** vibrates when there's a call—never
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Circuits/2.2%20Combinational%20Logic/Ringer.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.1%20Basic%20gates/3.1.13%20Ring%20or%20vibrate%3F/ringer.v)
 
 <img width="501" alt="{9EAFA887-4458-4100-8EF9-C95EF5EDA94D}" src="https://github.com/user-attachments/assets/eff854c2-26d6-4109-8a0c-b301332eda25" />
 
