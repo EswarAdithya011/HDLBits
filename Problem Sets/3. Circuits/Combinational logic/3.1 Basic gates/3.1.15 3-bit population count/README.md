@@ -20,7 +20,7 @@ For a 3-bit input `in[2:0]`, the result is a 2-bit output `out[1:0]` representin
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Circuits/2.2%20Combinational%20Logic/Popcount3.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.1%20Basic%20gates/3.1.15%203-bit%20population%20count/popcount3.v)
 
 <img width="450" alt="{596BE59D-A6A3-4384-BCE5-2384DB976E5C}" src="https://github.com/user-attachments/assets/ddaad274-0085-4b36-bc2c-3d9160584cca" />
 
