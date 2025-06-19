@@ -32,7 +32,7 @@ The logic must:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Circuits/2.2%20Combinational%20Logic/Thermostat.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.1%20Basic%20gates/3.1.14%20Thermostat/thermostat.v)
 
 <img width="550" alt="{860CE581-0A0F-40F0-A1B3-286CB769AFC9}" src="https://github.com/user-attachments/assets/2baebb3e-d709-4d08-97c6-dcc250ae7028" />
 
