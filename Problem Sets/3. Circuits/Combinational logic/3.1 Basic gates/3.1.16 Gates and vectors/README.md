@@ -25,7 +25,7 @@ The circuit evaluates bitwise comparisons between neighboring bits in a 4-bit ve
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Circuits/2.2%20Combinational%20Logic/Gatesv.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.1%20Basic%20gates/3.1.16%20Gates%20and%20vectors/gatesv.v)
 
 <img width="450" alt="{05A27579-66BD-49C4-9D08-EAEBDE2B3A47}" src="https://github.com/user-attachments/assets/97fb8e02-e1b9-407a-bf0e-a882541e6a88" />
 
