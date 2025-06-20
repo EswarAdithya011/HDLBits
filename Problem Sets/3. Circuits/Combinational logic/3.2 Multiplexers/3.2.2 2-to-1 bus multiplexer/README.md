@@ -29,7 +29,7 @@ Implemented using a vectorized ternary operator:
 ### ✅ Solution  
 📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Circuits/2.2%20Combinational%20Logic/Mux2to1v.v)
 
-<img width="621" alt="{95ADD906-1155-4A61-B9FB-4A5943A7A863}" src="https://github.com/user-attachments/assets/bdf86b92-66f6-4f5e-a5d9-a8811f182f64" />
+<img width="771" alt="{95ADD906-1155-4A61-B9FB-4A5943A7A863}" src="https://github.com/user-attachments/assets/bdf86b92-66f6-4f5e-a5d9-a8811f182f64" />
 
 ---
 
