@@ -27,7 +27,7 @@ This behavior is implemented using the **ternary conditional operator**:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Circuits/2.2%20Combinational%20Logic/Mux2to1.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.2%20Multiplexers/3.2.1%202-to-1%20multiplexer/mux2to1.v)
 
 <img width="451" alt="{A036C88E-7B7C-4755-85A1-5B90DFE3D8F0}" src="https://github.com/user-attachments/assets/369cad29-c0f8-4b55-a2b9-ce989e55fad3" />
 
