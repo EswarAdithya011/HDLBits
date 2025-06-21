@@ -21,7 +21,7 @@ Using vector indexing in Verilog, a single bit can be directly accessed with a v
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Circuits/2.2%20Combinational%20Logic/Mux256to1.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.2%20Multiplexers/3.2.4%20256-to-1%20multiplexer/mux256to1.v)
 
 ---
 
