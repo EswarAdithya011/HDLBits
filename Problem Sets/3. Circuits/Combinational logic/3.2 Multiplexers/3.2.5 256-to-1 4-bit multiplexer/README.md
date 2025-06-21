@@ -23,7 +23,7 @@ This selects a **4-bit slice** starting from `sel*4`. It's compact and fully syn
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Circuits/2.2%20Combinational%20Logic/Mux256to1v.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.2%20Multiplexers/3.2.5%20256-to-1%204-bit%20multiplexer/mux256to1v.v)
 
 ---
 
