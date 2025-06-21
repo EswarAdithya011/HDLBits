@@ -25,7 +25,7 @@ Remaining selector values (9–15) are handled by default, ensuring no latch inf
 ### ✅ Solution  
 📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Circuits/2.2%20Combinational%20Logic/Mux9to1v.v)
 
-<img width="519" alt="{E6CC2807-5D37-4D28-93AE-800F1A0875F0}" src="https://github.com/user-attachments/assets/40a91c1d-4dab-4bb9-9291-44b1c5f2f977" />
+<img width="459" alt="{E6CC2807-5D37-4D28-93AE-800F1A0875F0}" src="https://github.com/user-attachments/assets/40a91c1d-4dab-4bb9-9291-44b1c5f2f977" />
 
 ---
 
