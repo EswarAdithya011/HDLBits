@@ -25,7 +25,7 @@ Unlike a full adder, the half adder does **not** handle a carry-in input.
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/3.1%20Arithmetic/Hadd.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.3%20Arithmetic%20Circuits/3.3.1%20Half%20adder/hadd.v)
 
 ---
 
