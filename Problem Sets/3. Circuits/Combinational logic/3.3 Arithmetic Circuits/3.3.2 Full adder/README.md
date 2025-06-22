@@ -28,6 +28,8 @@ This allows carry propagation in multi-bit binary addition.
 ### ✅ Solution  
 📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.3%20Arithmetic%20Circuits/3.3.2%20Full%20adder/fadd.v)
 
+<img width="517" alt="{69716826-16AC-48C0-B06A-FA82941E1939}" src="https://github.com/user-attachments/assets/666cd551-1e64-431d-99b2-f6522668f599" />
+
 ---
 
 ### 🛠 Design Note  
