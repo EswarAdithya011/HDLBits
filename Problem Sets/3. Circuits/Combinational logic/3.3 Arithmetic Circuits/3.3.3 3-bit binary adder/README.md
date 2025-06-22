@@ -26,7 +26,7 @@ A ripple-carry adder chains multiple full adders:
 ### ✅ Solution  
 📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/3.1%20Arithmetic/Adder3.v)
 
-<img width="251" alt="{733ACB61-CEE5-4C03-A1A5-55510DC78AE0}" src="https://github.com/user-attachments/assets/5b988738-ef3e-400b-a8e7-d4add0992202" />
+<img width="301" alt="{733ACB61-CEE5-4C03-A1A5-55510DC78AE0}" src="https://github.com/user-attachments/assets/5b988738-ef3e-400b-a8e7-d4add0992202" />
 
 ---
 
