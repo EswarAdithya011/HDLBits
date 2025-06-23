@@ -28,7 +28,7 @@ To detect overflow:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/5.%20Exams/ece241_2014_q1c.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.3%20Arithmetic%20Circuits/3.3.5%20Signed%20addition%20overflow/ece241_2014_q1c.v)
 
 <img width="533" alt="{B4A91ECA-827F-4633-8B1A-C7723C1957D2}" src="https://github.com/user-attachments/assets/69f286a3-ea5f-48c8-9df3-39b9519869dc" />
 
