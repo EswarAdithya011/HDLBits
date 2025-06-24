@@ -27,7 +27,7 @@ This logic covers all necessary conditions where output should be high (1) based
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Circuits/2.3%20Karnaugh%20Map/Kmap2.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.4%20karnaugh%20Map%20to%20circuit/4-variable/kmap2.v)
 
 <img width="579" alt="{0308E911-A0FA-4D03-BB59-7BA4DA138E30}" src="https://github.com/user-attachments/assets/c8abaa7c-11d0-49db-b1b5-eb39034111c5" />
 
