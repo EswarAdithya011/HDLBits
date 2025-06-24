@@ -27,7 +27,7 @@ In this problem:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Circuits/2.2%20Combinational%20Logic/Bcdadd4.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.3%20Arithmetic%20Circuits/3.3.7%204-bit%20BCD%20adder/bcdadd4.v)
 
 <img width="462" alt="{731792FD-92FD-4641-BD45-1F89610AA5E5}" src="https://github.com/user-attachments/assets/e06fd275-025e-46ba-aa2a-124425c5fe69" />
 
