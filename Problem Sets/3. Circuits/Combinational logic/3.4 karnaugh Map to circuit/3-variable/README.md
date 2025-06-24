@@ -25,7 +25,7 @@ From the given K-map, the minimized function is:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Circuits/2.3%20Karnaugh%20Map/Kmap1.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.4%20karnaugh%20Map%20to%20circuit/3-variable/kmap1.v)
 
 <img width="500" alt="{BCD53C7D-2594-4536-8102-F7460645CA62}" src="https://github.com/user-attachments/assets/5997d142-86d7-427d-9274-df52d48c69fc" />
 
