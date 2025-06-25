@@ -27,7 +27,7 @@ This logic means:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Circuits/2.3%20Karnaugh%20Map/Kmap3.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.4%20karnaugh%20Map%20to%20circuit/4-variable%20(2)/kmap3.v)
 
 <img width="577" alt="{CCB73D88-52D4-47AD-ABA0-A53D210C2453}" src="https://github.com/user-attachments/assets/764b1761-0a38-421d-a532-00af59bb8044" />
 
