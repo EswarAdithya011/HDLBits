@@ -25,7 +25,7 @@ Which simplifies to a **2-bit XOR parity comparator**:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/2.%20Circuits/2.3%20Karnaugh%20Map/Kmap4.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.4%20karnaugh%20Map%20to%20circuit/4-variable(3)/kmap4.v)
 
 <img width="576" alt="{97C15DDA-940E-4BF4-96BD-17608618E691}" src="https://github.com/user-attachments/assets/4921601c-6b3c-4a70-909b-aa92bd845b51" />
 
