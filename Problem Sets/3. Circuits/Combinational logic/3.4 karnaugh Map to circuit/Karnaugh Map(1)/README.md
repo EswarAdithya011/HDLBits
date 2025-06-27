@@ -22,7 +22,7 @@ From the given K-map simplification:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Exams/Midterm%202014/Q3.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.4%20karnaugh%20Map%20to%20circuit/Karnaugh%20Map(1)/m2014_q3.v)
 
 ---
 
