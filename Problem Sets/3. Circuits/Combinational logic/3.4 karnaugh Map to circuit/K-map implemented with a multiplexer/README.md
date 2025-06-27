@@ -21,7 +21,7 @@ This problem emphasizes **functional completeness using multiplexers only**.
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Exams/ECE241%202014/Q3.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Combinational%20logic/3.4%20karnaugh%20Map%20to%20circuit/K-map%20implemented%20with%20a%20multiplexer/ece241_2014_q3.v)
 
 ---
 
