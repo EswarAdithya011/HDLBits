@@ -18,7 +18,7 @@ A **D flip-flop** captures the value of `d` at the **positive edge** of the `clk
 
 🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Dff)
 
-<img width="205" alt="{A4D26C39-46E4-4610-904C-23CBACB879E5}" src="https://github.com/user-attachments/assets/d1322a04-b546-43d8-9296-e36c71eaaeec" />
+<img width="175" alt="{A4D26C39-46E4-4610-904C-23CBACB879E5}" src="https://github.com/user-attachments/assets/d1322a04-b546-43d8-9296-e36c71eaaeec" />
 
 ---
 
