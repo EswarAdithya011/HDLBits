@@ -23,7 +23,7 @@ An **8-bit register** is a group of 8 D flip-flops operating in parallel. This i
 ### ✅ Solution  
 📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Sequential%20Logic/4.1%20Flip-Flops/Dff8.v)
 
-<img width="399" alt="{EAE09214-0733-4ED2-AE23-41B08F6315AB}" src="https://github.com/user-attachments/assets/50c7ca3a-368f-43c6-899c-6d16ca824fd4" />
+<img width="450" alt="{EAE09214-0733-4ED2-AE23-41B08F6315AB}" src="https://github.com/user-attachments/assets/50c7ca3a-368f-43c6-899c-6d16ca824fd4" />
 
 ---
 
