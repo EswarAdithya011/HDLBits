@@ -22,7 +22,7 @@ A **synchronous reset** means the reset only takes effect **on the clock edge**,
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Sequential%20Logic/4.1%20Flip-Flops/Dff8r.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.5%20Latches%20and%20Flip-Flops/3.5.3%20DFF%20with%20reset/dff8r.v)
 
 <img width="574" alt="{837AB5D6-6373-4BEF-88B5-EDCDA094B2AE}" src="https://github.com/user-attachments/assets/618e57fa-2cc7-44a3-bcdc-472bc90e0d53" />
 
