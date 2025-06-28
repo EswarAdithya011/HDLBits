@@ -23,7 +23,7 @@ A **D flip-flop** captures the value of `d` at the **positive edge** of the `clk
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Sequential%20Logic/4.1%20Flip-Flops/Dff.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.5%20Latches%20and%20Flip-Flops/3.5.1%20D%20flip-flop/dff.v)
 
 <img width="450" alt="{7611B37B-C86F-4128-BC76-1EC07F3615F2}" src="https://github.com/user-attachments/assets/27872047-5d57-40a7-90c4-71e1830e44fc" />
 
