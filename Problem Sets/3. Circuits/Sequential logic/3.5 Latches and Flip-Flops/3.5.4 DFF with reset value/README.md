@@ -24,7 +24,7 @@ This module implements an **8-bit register** that updates on the **negative edge
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Sequential%20Logic/4.1%20Flip-Flops/Dff8p.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.5%20Latches%20and%20Flip-Flops/3.5.4%20DFF%20with%20reset%20value/dff8p.v)
 
 <img width="578" alt="{27BFE479-DC3F-4378-96DB-76B9F4781303}" src="https://github.com/user-attachments/assets/9daf4dad-0636-4036-9b80-5cb4bd518632" />
 
