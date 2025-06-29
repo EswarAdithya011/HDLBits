@@ -25,7 +25,7 @@ This module implements **16 D flip-flops** grouped into two bytes (8 bits each),
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Sequential%20Logic/4.1%20Flip-Flops/Dff16e.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.5%20Latches%20and%20Flip-Flops/3.5.6%20DFF%20with%20byte%20enable/dff16e.v)
 
 <img width="609" alt="{1D3B4A26-E074-4F96-8446-3865195F4D89}" src="https://github.com/user-attachments/assets/c2418877-c923-4083-8da9-994978152037" />
 
