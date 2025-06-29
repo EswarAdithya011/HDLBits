@@ -24,7 +24,7 @@ This module implements **8 positive edge-triggered D flip-flops**, each with an 
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.5%20Latches%20and%20Flip-Flops/DFF%20with%20asynchronous%20reset/dff8ar.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.5%20Latches%20and%20Flip-Flops/3.5.5%20DFF%20with%20asynchronous%20reset/dff8ar.v)
 
 <img width="579" alt="{5A395AFD-8551-4B02-BAE8-9F7756BA330A}" src="https://github.com/user-attachments/assets/365a4c7f-52aa-4e74-a7ef-e7a2b43fa235" />
 
