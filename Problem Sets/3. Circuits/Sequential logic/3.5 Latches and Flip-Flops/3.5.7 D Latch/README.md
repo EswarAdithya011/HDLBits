@@ -23,7 +23,7 @@ This module implements a **D-latch** that is **level-sensitive**, not edge-trigg
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Sequential%20Logic/4.2%20Latches/Exams_m2014_q4a.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.5%20Latches%20and%20Flip-Flops/3.5.7%20D%20Latch/m2014_q4a.v)
 
 ---
 
