@@ -26,7 +26,7 @@ This module defines a **basic sequential logic block** combining a **2-to-1 mult
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Sequential%20Logic/4.1%20Flip-Flops/Mt2015_muxdff.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.5%20Latches%20and%20Flip-Flops/3.5.11%20Mux%20and%20DFF(1)/mt2015_muxdff.v)
 
 ---
 
