@@ -23,7 +23,7 @@ Each D flip-flop receives logic expressions based on current state and input `x`
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/5.%20Finite%20State%20Machines/Exams_ece241_2014_q4.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.5%20Latches%20and%20Flip-Flops/3.5.13%20DFFs%20and%20gates/ece241_2014_q4.sv)
 
 <img width="458" alt="{67E1483C-56F9-4BB8-A2A8-7B0BAD3F9CD7}" src="https://github.com/user-attachments/assets/2d458d6c-98f4-464d-9685-90d384566966" />
 
