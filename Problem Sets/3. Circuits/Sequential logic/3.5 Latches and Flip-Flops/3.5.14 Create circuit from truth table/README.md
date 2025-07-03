@@ -22,7 +22,7 @@ A JK flip-flop can be implemented using a D flip-flop by generating the D input 
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/5.%20Finite%20State%20Machines/Exams_ece241_2013_q7.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.5%20Latches%20and%20Flip-Flops/3.5.14%20Create%20circuit%20from%20truth%20table/ece241_2013_q7.sv)
 
 <img width="495" alt="{EEDF2462-D03E-4190-9BE3-D86B33F25E92}" src="https://github.com/user-attachments/assets/cfb21eba-a221-48dc-b711-bb5a4893315c" />
 
