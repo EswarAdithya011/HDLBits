@@ -26,7 +26,7 @@ This detects a rising edge on each bit of the 8-bit signal.
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/5.%20Finite%20State%20Machines/Edgedetect.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.5%20Latches%20and%20Flip-Flops/3.5.15%20Detect%20an%20edge/edgedetect.v)
 
 <img width="500" alt="{DF07C943-22E2-4C77-87EE-81C8782B7BE7}" src="https://github.com/user-attachments/assets/46f6b098-641d-4755-b7b1-99774596a281" />
 
