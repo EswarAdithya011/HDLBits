@@ -19,7 +19,7 @@ This detects a rising edge on each bit of the 8-bit signal.
 - **Output**:  
   - `pedge[7:0]`: One-clock-cycle pulse for each rising edge on `in`
 
-<img width="488" alt="{6DCFA45B-10CF-4C6A-B577-48C50DDE489F}" src="https://github.com/user-attachments/assets/41c9b62f-c28e-4dad-b0fe-d9e5126624d9" />
+<img width="588" alt="{6DCFA45B-10CF-4C6A-B577-48C50DDE489F}" src="https://github.com/user-attachments/assets/41c9b62f-c28e-4dad-b0fe-d9e5126624d9" />
 
 🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Edgedetect)
 
@@ -28,7 +28,7 @@ This detects a rising edge on each bit of the 8-bit signal.
 ### ✅ Solution  
 📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/5.%20Finite%20State%20Machines/Edgedetect.v)
 
-<img width="485" alt="{DF07C943-22E2-4C77-87EE-81C8782B7BE7}" src="https://github.com/user-attachments/assets/46f6b098-641d-4755-b7b1-99774596a281" />
+<img width="500" alt="{DF07C943-22E2-4C77-87EE-81C8782B7BE7}" src="https://github.com/user-attachments/assets/46f6b098-641d-4755-b7b1-99774596a281" />
 
 ---
 
