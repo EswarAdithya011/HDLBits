@@ -19,6 +19,8 @@ This captures any edge per bit.
 - **Output**:  
   - `anyedge[7:0]`: Pulse for one cycle when any bit toggles
 
+<img width="526" alt="{9D22884D-E690-4EB6-AD9E-D079F9255E60}" src="https://github.com/user-attachments/assets/b7245ebd-ec1e-44fe-884b-2d185605e670" />
+
 🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Edgedetect2)
 
 ---
