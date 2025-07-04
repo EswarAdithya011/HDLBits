@@ -26,7 +26,7 @@ This module implements a **4-bit synchronous binary counter** that wraps around 
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Sequential%20Logic/Count15.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.6%20Counters/3.6.1%20Four-bit%20binary%20counter/count15.v)
 
 <img width="483" alt="{FC450100-173D-46A3-A6C4-F38CB714E4B5}" src="https://github.com/user-attachments/assets/9dc4ce5c-0054-4603-9be8-baed311cc3b3" />
 
