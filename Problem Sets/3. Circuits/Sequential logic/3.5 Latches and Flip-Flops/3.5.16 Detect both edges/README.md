@@ -28,6 +28,8 @@ This captures any edge per bit.
 ### ✅ Solution  
 📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.5%20Latches%20and%20Flip-Flops/3.5.16%20Detect%20both%20edges/edgedetect2.v)
 
+<img width="502" alt="{AF470467-AA8A-4033-AECD-A62BBC8161F1}" src="https://github.com/user-attachments/assets/f977aa60-4592-4e3c-b609-51932adfd6d7" />
+
 ---
 
 ### 🛠 Design Note  
