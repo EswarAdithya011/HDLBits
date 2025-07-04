@@ -1,4 +1,4 @@
-<img width="518" alt="{ACB0E41A-3634-4E2C-B8C0-25DAF67E54A4}" src="https://github.com/user-attachments/assets/5223f2ff-bd0d-4603-b3e1-aa08e5cadf67" />## EdgeCapture – 1→0 Transition Capture with Synchronous Reset
+Transition Capture with Synchronous Reset
 
 This module detects **falling edges (1→0)** for each bit in a 32-bit vector and **captures them permanently** until a synchronous reset clears them.
 
@@ -29,7 +29,7 @@ Each bit behaves like an **SR flip-flop**:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/5.%20Finite%20State%20Machines/Edgecapture.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.5%20Latches%20and%20Flip-Flops/3.5.17%20Edge%20capture%20register/edgecapture.v)
 
 <img width="524" alt="{235030A4-3854-43FA-99D4-1B4CB302F04F}" src="https://github.com/user-attachments/assets/d5d6dc69-099e-4105-9aff-efe36e8df3e8" />
 
