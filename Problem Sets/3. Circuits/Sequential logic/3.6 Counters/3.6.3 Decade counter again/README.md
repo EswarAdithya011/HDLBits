@@ -25,7 +25,7 @@ This module implements a **4-bit synchronous decade counter** that cycles throug
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Sequential%20Logic/Count1to10.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.6%20Counters/3.6.3%20Decade%20counter%20again/count1to10.v)
 
 <img width="651" alt="{C19ACA77-FDF6-4998-9F3B-3B8617B76225}" src="https://github.com/user-attachments/assets/1c414c83-b027-44e4-9dda-9ca19637637f" />
 
