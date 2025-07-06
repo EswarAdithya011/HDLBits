@@ -20,7 +20,7 @@ This module implements a **4-bit synchronous decade counter** that counts from *
 - **Output**:  
   - `q[3:0]`: 4-bit counter output cycling from 0 to 9  
 
-![image](https://github.com/user-attachments/assets/fb0a64a2-2e5b-46ec-ad0a-2f7778e193a9)
+![image](https://github.com/user-attachments/assets/f411f9d9-70ad-4046-a3a0-c534a9cf1f6b)
 
 🔗 [View Problem on HDLBits](https://hdlbits.01xz.net/wiki/Countslow)
 
@@ -29,7 +29,6 @@ This module implements a **4-bit synchronous decade counter** that counts from *
 ### ✅ Solution  
 📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Sequential%20Logic/Countslow.v)
 
-![image](https://github.com/user-attachments/assets/70a81b4a-4f9a-4976-b92e-f0d0f842a0a7)
 
 ---
 
