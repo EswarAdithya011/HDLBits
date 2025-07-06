@@ -25,7 +25,7 @@ This module creates a **1 Hz pulse (`OneHertz`)** from a 1000 Hz input clock usi
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/6.%20Final%20Exam/Exams-ece241_2014_q7b.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.6%20Counters/3.6.6%20Counter%201000/ece241_2014_q7b.v)
 
 ---
 
