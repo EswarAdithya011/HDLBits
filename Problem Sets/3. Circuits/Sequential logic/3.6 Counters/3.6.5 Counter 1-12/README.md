@@ -31,7 +31,7 @@ This module implements a **1–12 synchronous counter** using the provided `coun
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/6.%20Final%20Exam/Exams-ece241_2014_q7b.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.6%20Counters/3.6.5%20Counter%201-12/ece241_2014_q7a.v)
 
 ![Uploading image.png…]()
 
