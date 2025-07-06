@@ -27,7 +27,7 @@ This module implements a **4-bit synchronous decade counter** that counts from *
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Sequential%20Logic/Countslow.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.6%20Counters/3.6.4%20Slow%20decade%20counter/countslow.v)
 
 
 ---
