@@ -40,7 +40,7 @@ Design a **12-hour digital clock** in Verilog with proper AM/PM tracking. The cl
 ---
 
 ### ✅ Solution
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/7.%20Sequential%20Logic/Shift4.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.6%20Counters/3.6.8%2012-hour%20clock/count_clock.v)
 
 ![image](https://github.com/user-attachments/assets/33ef2246-0dbf-4299-b5d5-c56219ccda29)
 
