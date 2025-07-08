@@ -30,9 +30,7 @@ Design a **4-bit right shift register** with asynchronous reset, synchronous loa
 ---
 
 ### ✅ Solution
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/7.%20Sequential%20Logic/Shift4.v)
-
-![image](https://github.com/user-attachments/assets/76eaa784-eec0-4ecc-b53e-59c510d65e44)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.7%20Shift%20Registers/4-bit%20shift%20register/shift4.v)
 
 ---
 
