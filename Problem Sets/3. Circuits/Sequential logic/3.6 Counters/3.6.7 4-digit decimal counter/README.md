@@ -32,7 +32,7 @@ Design a **4-digit decimal counter**, where each digit is stored in **BCD format
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/7.%20Sequential%20Logic/Count_clock.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.6%20Counters/3.6.7%204-digit%20decimal%20counter/countbcd.v)
 
 ![image](https://github.com/user-attachments/assets/7213c95b-ab6c-4cf1-90e3-ff9dd5e8519a)
 
