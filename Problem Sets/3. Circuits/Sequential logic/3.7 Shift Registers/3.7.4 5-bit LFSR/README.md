@@ -33,7 +33,7 @@ Design a **5-bit Galois Linear Feedback Shift Register (LFSR)** with the followi
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/7.%20Sequential%20Logic/mt2015_lfsr.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.7%20Shift%20Registers/3.7.4%205-bit%20LFSR/lfsr5.v)
 
 <img width="650" height="429" alt="image" src="https://github.com/user-attachments/assets/b7c13e69-21e5-412b-a662-823d343d2b7f" />
 
