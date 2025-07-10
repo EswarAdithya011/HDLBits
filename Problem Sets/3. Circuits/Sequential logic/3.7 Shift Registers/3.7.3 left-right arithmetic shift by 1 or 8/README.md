@@ -38,11 +38,11 @@ Use Verilog `always @(posedge clk)` for synchronous operations.
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/7.%20Sequential%20Logic/Shift18.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.7%20Shift%20Registers/3.7.3%20left-right%20arithmetic%20shift%20by%201%20or%208/shift18.v)
 
 <img width="556" height="482" alt="image" src="https://github.com/user-attachments/assets/0f253745-9770-4bb9-965c-c47d2e82138f" />
 
-<img width="700" height="481" alt="image" src="https://github.com/user-attachments/assets/9626ff16-7412-413b-995a-edd467481135" />
+<img width="566" height="481" alt="image" src="https://github.com/user-attachments/assets/9626ff16-7412-413b-995a-edd467481135" />
 
 ---
 
@@ -54,12 +54,3 @@ Use Verilog `always @(posedge clk)` for synchronous operations.
   - `2'b01`: `q <= q << 8`
   - `2'b10`: `q <= {q[63], q[63:1]}`  (ASR by 1)
   - `2'b11`: `q <= {{8{q[63]}}, q[63:8]}` (ASR by 8)
-
-Use:
-```verilog
-    case (amount)
-        2'b00: q <= q << 1;
-        2'b01: q <= q << 8;
-        2'b10: q <= {q[63], q[63:1]};
-        2'b11: q <= {{8{q[63]}}, q[63:8]};
-    endcase
