@@ -32,7 +32,7 @@ Design a **32-bit Galois Linear Feedback Shift Register (LFSR)** with the follow
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/7.%20Sequential%20Logic/lfsr32.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.7%20Shift%20Registers/3.7.6%2032-bit%20LFSR/lfsr32.v)
 
 ---
 
