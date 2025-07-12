@@ -35,7 +35,7 @@ Design a **4-bit serial-in parallel-out (SIPO) shift register** using the follow
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/7.%20Sequential%20Logic/m2014_q4e.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.7%20Shift%20Registers/3.7.7%20Shift%20register(1)/m2014_q4k.v)
 
 ---
 
