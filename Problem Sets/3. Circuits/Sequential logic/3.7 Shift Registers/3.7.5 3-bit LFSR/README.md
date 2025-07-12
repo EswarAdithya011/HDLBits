@@ -50,4 +50,4 @@ This is a **hierarchical Verilog** design using submodules.
 
 ### ✅ Verilog Implementation
 
-📄 [View Full Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/7.%20Sequential%20Logic/mt2015_lfsr.v)
+📄 [View Full Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.7%20Shift%20Registers/3.7.5%203-bit%20LFSR/mt2015_lfsr.v)
