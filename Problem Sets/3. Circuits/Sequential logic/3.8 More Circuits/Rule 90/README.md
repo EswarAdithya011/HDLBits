@@ -42,7 +42,7 @@ This rule generates **Sierpiński triangle patterns** when started with a single
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/7.%20Sequential%20Logic/rule90.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.8%20More%20Circuits/Rule%2090/rule90.v)
 
 <img width="502" height="472" alt="image" src="https://github.com/user-attachments/assets/bc5b0747-a57a-4687-83f8-b216d6b6ade3" />
 
