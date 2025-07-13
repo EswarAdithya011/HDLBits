@@ -43,7 +43,7 @@ This is equivalent to a 3-input LUT initialized via shift.
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/7.%20Sequential%20Logic/ece241_2013_q12.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.7%20Shift%20Registers/3.7.9%203-input%20LUT/ece241_2013_q12.v)
 
 <img width="500" height="612" alt="image" src="https://github.com/user-attachments/assets/68b5f94c-c077-4cb6-9dec-843784f10981" />
 
