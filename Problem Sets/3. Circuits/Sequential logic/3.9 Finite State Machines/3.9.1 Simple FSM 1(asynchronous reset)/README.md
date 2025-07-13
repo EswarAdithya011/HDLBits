@@ -38,6 +38,6 @@ Design a **Moore finite state machine** with the following features:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/7.%20Sequential%20Logic/fsm1.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.1%20Simple%20FSM%201(asynchronous%20reset)/fsm1.v)
 
 <img width="520" height="463" alt="image" src="https://github.com/user-attachments/assets/903c081f-1e98-4e31-8ba2-a68e8e55510b" />
