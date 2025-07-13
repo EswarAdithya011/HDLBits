@@ -42,7 +42,7 @@ This binary truth table represents the value `8'b01101110`, which is `8'h6E` = `
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/7.%20Sequential%20Logic/rule110.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.8%20More%20Circuits/Rule%20110/rule110.v)
 
 <img width="503" height="472" alt="image" src="https://github.com/user-attachments/assets/0e071c9f-bd65-4a18-8b9f-6dd1202d39e3" />
 
