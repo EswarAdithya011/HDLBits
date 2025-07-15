@@ -43,7 +43,7 @@ The **asynchronous reset** resets the state to `OFF` (0) immediately on `areset 
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/7.%20Sequential%20Logic/fsm2.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.3%20Simple%20FSM%202(asynchronous%20reset)/fsm2.v)
 
 <img width="500" height="504" alt="image" src="https://github.com/user-attachments/assets/46ba28a7-6900-4c87-af0d-ebf413a88020" />
 
