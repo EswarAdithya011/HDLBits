@@ -41,7 +41,7 @@ This FSM acts like a **JK flip-flop**, where transitions are governed by the fol
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/7.%20Sequential%20Logic/fsm2s.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/Simple%20FSM%202(synchronous%20reset)/fsm2s.v)
 
 <img width="500" height="505" alt="image" src="https://github.com/user-attachments/assets/7736f19b-5b3e-4a94-919e-32aea81d095d" />
 
