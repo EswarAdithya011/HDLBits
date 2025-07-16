@@ -44,7 +44,7 @@ Design a **Moore finite state machine** with:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/7.%20Sequential%20Logic/fsm3.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.7%20Simple%20FSM%203(asynchronous%20reset)/fsm3.v)
 
 <img width="415" height="459" alt="image" src="https://github.com/user-attachments/assets/8a88bc19-f3a2-44be-854b-3f30f9c906cb" />
 
