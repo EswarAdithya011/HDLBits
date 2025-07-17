@@ -71,7 +71,7 @@ Design a **Moore FSM** to model a Lemming’s walking and falling behavior:
 ---
 
 ### ✅ Solution  
-📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/7.%20Sequential%20Logic/lemmings2.v)
+📄 [View Solution Code on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.11%20Lemmings%202/lemmings2.v)
 
 <img width="500" height="719" alt="image" src="https://github.com/user-attachments/assets/caa76b9e-250a-4641-8d8b-eedac5aef005" />
 
