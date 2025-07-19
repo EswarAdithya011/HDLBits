@@ -31,4 +31,4 @@ This problem evaluates your understanding of:
 
 ## ✅ Solution
 
-[🔗 GitHub: FSM Onehot – Verilog Solution]([https://github.com/EswarAdithya011/HDLBits-verilog-practice/blob/main/FSMs/fsm_onehot.sv](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.14%20One-hot%20FSM/fsm_onehot.v))
+[🔗 GitHub: FSM Onehot – Verilog Solution]([https://github.com/EswarAdithya011/HDLBits-verilog-practice/blob/main/FSMs/fsm_onehot.sv](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.14%20One-hot%20FSM/fsm_onehot.v)
