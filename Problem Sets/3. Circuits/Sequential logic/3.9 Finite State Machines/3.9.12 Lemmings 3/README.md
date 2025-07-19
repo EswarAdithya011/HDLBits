@@ -42,6 +42,6 @@ Moore FSM means outputs are based only on the current state.
 [Lemmings3 – HDLBits](https://hdlbits.01xz.net/wiki/Lemmings3)
 
 ## 💡 GitHub Solution Link:
-[Click here to view on GitHub](https://github.com/EswarAdithya011/HDLBits-Verilog-Solutions/blob/main/FSM/Lemmings3.sv)
+[Click here to view on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.12%20Lemmings%203/lemmings3.v)
 
 <img width="500" height="866" alt="image" src="https://github.com/user-attachments/assets/a13a6ffe-75ee-4924-a4a5-9c568b02e970" />
