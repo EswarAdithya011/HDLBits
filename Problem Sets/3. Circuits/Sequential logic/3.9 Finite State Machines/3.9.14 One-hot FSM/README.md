@@ -25,6 +25,8 @@ This problem evaluates your understanding of:
 
 ## 🔗 Problem Link
 
+<img width="500" height="441" alt="image" src="https://github.com/user-attachments/assets/4f1ce693-64d5-44ad-9c42-09928c066ab1" />
+
 [🔗 HDLBits: FSM – Onehot](https://hdlbits.01xz.net/wiki/Fsm_onehot)
 
 ---
@@ -32,3 +34,6 @@ This problem evaluates your understanding of:
 ## ✅ Solution
 
 [🔗 GitHub: FSM Onehot – Verilog Solution](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.14%20One-hot%20FSM/fsm_onehot.v)
+
+<img width="500" height="592" alt="image" src="https://github.com/user-attachments/assets/f948ac28-6be3-4f30-9d8e-3a8053d1af1a" />
+
