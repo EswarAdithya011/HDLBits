@@ -62,7 +62,7 @@ The FSM must detect the **start of a message** and **count 3 bytes** while track
   [FSM - PS2 Data Problem](https://hdlbits.01xz.net/wiki/Fsm_ps2)
 
 - **Solution Code:**  
-  [FSM_PS2 Solution on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/3.2%20FSM/3.2.4%20fsm_ps2data/fsm_ps2data.v)
+  [FSM_PS2 Solution on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.15%20PS-2%20packet%20parser/fsm_ps2.v)
 
 ---
 
