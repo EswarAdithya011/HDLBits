@@ -50,9 +50,9 @@ The FSM must detect the **start of a message** and **count 3 bytes** while track
 > - Cannot overlap sequences.  
 > - `done` should be **1 for only 1 cycle** after byte 3 is received.
 
-<img width="615" height="792" alt="image" src="https://github.com/user-attachments/assets/464ea2a4-bf84-49dc-867c-44519386e827" />
+<img width="500" height="792" alt="image" src="https://github.com/user-attachments/assets/464ea2a4-bf84-49dc-867c-44519386e827" />
 
-<img width="615" height="314" alt="image" src="https://github.com/user-attachments/assets/277cfd54-a628-4dee-ae9f-ae13b3e4471e" />
+<img width="500" height="314" alt="image" src="https://github.com/user-attachments/assets/277cfd54-a628-4dee-ae9f-ae13b3e4471e" />
 
 ---
 
