@@ -87,7 +87,7 @@ Design a **finite state machine (FSM)** combined with a **datapath** to process 
   [FSM - PS2 Data with OutBytes](https://hdlbits.01xz.net/wiki/Fsm_ps2data)
 
 - **GitHub Solution:**  
-  [FSM_PS2 with Output Solution](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/3.2%20FSM/3.2.5%20fsm_ps2data/fsm_ps2data.v)
+  [FSM_PS2 with Output Solution](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.16%20PS-2%20packet%20parser%20and%20datapath/fsm_ps2data.v)
 
 ---
 
