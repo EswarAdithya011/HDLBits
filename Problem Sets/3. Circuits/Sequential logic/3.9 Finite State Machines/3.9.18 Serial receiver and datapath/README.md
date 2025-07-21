@@ -47,4 +47,4 @@ Idle  Start  Data                      Stop
 ---
 
 ## 📁 GitHub Solution Link
-[View Solution](https://github.com/your-github/eswar-hdlbits-solutions/blob/main/fsm_serialdata.sv)
+[View Solution](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.18%20Serial%20receiver%20and%20datapath/fsm_serialdata.v)
