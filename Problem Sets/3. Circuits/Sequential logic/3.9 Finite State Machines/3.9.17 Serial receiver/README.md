@@ -53,7 +53,7 @@ Design a **finite state machine (FSM)** to detect valid serial data frames in a 
 ## HDLBits Reference
 
 - **Problem:** [FSM - Serial Data](https://hdlbits.01xz.net/wiki/Fsm_serialdata)
-- **Solution:** [FSM_Serial Solution on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/3.2%20FSM/3.2.5%20fsm_serialdata/fsm_serialdata.v)
+- **Solution:** [FSM_Serial Solution on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.17%20Serial%20receiver/fsm_serial.v)
 
 ---
 
