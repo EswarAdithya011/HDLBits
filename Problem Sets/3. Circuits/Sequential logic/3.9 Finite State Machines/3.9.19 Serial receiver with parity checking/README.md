@@ -17,21 +17,6 @@ The FSM must:
 - Check for a correct **stop bit** (logic 1).
 - Assert `done = 1` only if **parity is valid** and **stop bit is correct**.
 - If the stop bit is incorrect, wait until idle state resumes before accepting a new frame.
-
-You are provided with a `parity` module that works like a **T flip-flop (TFF)** to track parity:
-```verilog
-module parity (
-    input clk,
-    input reset,
-    input in,
-    output reg odd);
-
-    always @(posedge clk)
-        if (reset) odd <= 0;
-        else if (in) odd <= ~odd;
-endmodule
-```
-
 ---
 
 <img width="500" height="368" alt="image" src="https://github.com/user-attachments/assets/8da50d73-6e20-45b0-9c00-1319e09944b0" />
@@ -75,4 +60,4 @@ Idle  Start  Data                      Parity  Stop
 ---
 
 ## 📁 GitHub Solution Link  
-[View Solution](https://github.com/your-github/eswar-hdlbits-solutions/blob/main/fsm_serialdp.sv)
+[View Solution](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.19%20Serial%20receiver%20with%20parity%20checking/fsm_serialdp.v)
