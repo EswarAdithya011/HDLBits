@@ -37,7 +37,7 @@ This behavior is best captured using a **Moore FSM**, with the output logic buil
 
 ## ✅ GitHub Solution Link
 
-[GitHub – FSM Serial 2's Complement](https://github.com/your-github-id/HDLBits-SystemVerilog/blob/main/FSMs/fsm_serial2s_moore.sv)
+[GitHub – FSM Serial 2's Complement](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.22%20Q5a%3A%20Serial%20two's%20complementer%20(Moore%20FSM)/ece241_2014_q5a.v)
 
 <img width="500" height="444" alt="image" src="https://github.com/user-attachments/assets/73d5bc20-14bb-4a61-9007-be84d896ecb5" />
 
