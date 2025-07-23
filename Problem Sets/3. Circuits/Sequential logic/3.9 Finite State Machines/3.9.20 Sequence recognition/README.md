@@ -36,4 +36,4 @@ Ensure correct transition from reset to avoid false detections. All outputs must
 
 ## 💻 Verilog HDL Solution
 
-**GitHub Gist Link:** [fsm_hdlc.sv](https://gist.github.com/korrapolueswaradithya/fsm_hdlc.sv) 
+**GitHub Gist Link:** [fsm_hdlc.sv](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.20%20Sequence%20recognition/fsm_hdlc.v) 
