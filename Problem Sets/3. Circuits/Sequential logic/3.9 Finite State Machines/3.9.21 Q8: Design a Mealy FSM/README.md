@@ -28,6 +28,6 @@ A Mealy FSM generates outputs based on both the current state and current inputs
 
 ## ✅ GitHub Solution Link
 
-[GitHub – FSM 101 Mealy](https://github.com/your-github-id/HDLBits-SystemVerilog/blob/main/FSMs/fsm_101_mealy.sv)
+[GitHub – FSM 101 Mealy](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.21%20Q8%3A%20Design%20a%20Mealy%20FSM/ece241_2013_q8.v)
 
 <img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/1dfa8e6d-9f63-470c-99b8-741dcb2939b7" />
