@@ -20,7 +20,7 @@ This is a Mealy FSM using binary-encoded states. The transitions depend on both 
 [HDLBits - exams/2014_q3bfsm](https://hdlbits.01xz.net/wiki/Exams/2014_q3bfsm)
 
 ### GitHub Solution Link:  
-[GitHub - HDLBits Solutions Repository](https://github.com/eswardi/HDLBits_Solutions/blob/main/FSM/exams_2014_q3bfsm.v)
+[GitHub - HDLBits Solutions Repository](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.25%20Q3b%3A%20FSM/2014_q3bfsm.v)
 
 ### Design Note:
 - Use `reg [2:0] state, next_state` to represent the encoded FSM states.
