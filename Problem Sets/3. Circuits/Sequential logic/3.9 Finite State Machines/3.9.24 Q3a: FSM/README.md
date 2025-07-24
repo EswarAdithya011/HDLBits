@@ -12,4 +12,4 @@ Design a finite state machine with two inputs `s` and `w`, and one output `z`. T
 [HDLBits – Exams/2014_q3fsm](https://hdlbits.01xz.net/wiki/Exams/2014_q3fsm)
 
 **GitHub Solution Link:**  
-[GitHub – FSM: 3-bit Window Detector](https://github.com/KorrapoluEswarAdithya/SystemVerilog-FSM-Designs/blob/main/exams/2014_q3fsm.sv)
+[GitHub – FSM: 3-bit Window Detector](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.24%20Q3a%3A%20FSM/2014_q3fsm.v)
