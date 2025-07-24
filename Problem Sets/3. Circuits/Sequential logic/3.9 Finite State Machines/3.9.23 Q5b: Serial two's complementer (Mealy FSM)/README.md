@@ -32,6 +32,6 @@ Use **one-hot encoding**:
 ---
 
 ## ✅ GitHub Solution Link  
-[View on GitHub](https://github.com/USERNAME/HDLBits-solutions/blob/main/FSMs/Exams/ece241_2014_q5b.v)
+[View on GitHub](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.23%20Q5b%3A%20Serial%20two's%20complementer%20(Mealy%20FSM)/ece241_2014_q5b.v)
 
 <img width="500" height="460" alt="image" src="https://github.com/user-attachments/assets/36b5a6dd-6513-4d16-9d00-9a8bc3c2c9d0" />
