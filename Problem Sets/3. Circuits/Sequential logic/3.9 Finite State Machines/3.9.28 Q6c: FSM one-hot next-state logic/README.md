@@ -47,4 +47,4 @@ The testbench will test with non-one-hot inputs to ensure that your design logic
 ---
 
 ## 💡 Solution Reference  
-**GitHub Repository**: [Click to view](https://github.com/yourusername/HDLBits-Solutions/blob/main/Exams/m2014_q6c.md)  
+**GitHub Repository**: [Click to view](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.28%20Q6c%3A%20FSM%20one-hot%20next-state%20logic/m2014_q6c.v)  
