@@ -21,7 +21,7 @@ Only logic expressions for `Y[0]` and `z` are required.
 [HDLBits - exams/2014_q3c](https://hdlbits.01xz.net/wiki/Exams/2014_q3c)
 
 ### GitHub Solution Link:  
-[GitHub - HDLBits Solutions Repository](https://github.com/eswardi/HDLBits_Solutions/blob/main/FSM/exams_2014_q3c.v)
+[GitHub - HDLBits Solutions Repository](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.26%20Q3c%3A%20FSM%20logic/2014_q3c.v)
 
 ### Design Note:
 - You should derive `Y0` by analyzing how `y` and `x` influence the LSB of the next state.
