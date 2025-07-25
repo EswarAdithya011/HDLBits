@@ -28,7 +28,7 @@ The testbench will test with non-one-hot inputs to ensure that your design logic
 
 ---
 
-<img width="500" height="747" alt="image" src="https://github.com/user-attachments/assets/ba1a2c01-00e6-4a0b-bd43-ce7cd9ab911d" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ba1a2c01-00e6-4a0b-bd43-ce7cd9ab911d" />
 
 ## 🔗 HDLBits Question Link  
 [https://hdlbits.01xz.net/wiki/Exams/m2014_q6c](https://hdlbits.01xz.net/wiki/Exams/m2014_q6c)
