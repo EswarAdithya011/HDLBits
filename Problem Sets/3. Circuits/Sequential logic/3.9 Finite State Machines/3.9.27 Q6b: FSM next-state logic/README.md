@@ -16,7 +16,7 @@ Given the state transitions and state encoding, derive the logic equation for `Y
 ---
 
 ### ✅ Solution Available at:  
-**GitHub:** [Next-State Logic for y[2] Solution](https://github.com/korrapolueswaradithya/HDLBits_Solutions/blob/main/Exams/m2014_q6b.sv)
+**GitHub:** [Next-State Logic for y[2] Solution](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.27%20Q6b%3A%20FSM%20next-state%20logic/m2014_q6b.v)
 
 ---
 
