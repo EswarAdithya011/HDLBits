@@ -10,7 +10,7 @@ Design a finite state machine based on the state diagram provided. The FSM has a
 
 ## ✅ GitHub Solution Link
 
-[GitHub: Exams/m2014_q6 - FSM Implementation](https://github.com/korrapolueswaradithya/HDLBits-Verilog-Solutions/blob/main/Exams/m2014_q6.v)
+[GitHub: Exams/m2014_q6 - FSM Implementation](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.29%20Q6%3A%20FSM/m2014_q6.v)
 
 ## 🧩 Design Diagram
 
