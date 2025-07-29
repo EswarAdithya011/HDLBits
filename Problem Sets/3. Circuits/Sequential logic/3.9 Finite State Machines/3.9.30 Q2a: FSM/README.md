@@ -29,7 +29,7 @@ This is a **Mealy/Moore FSM** synthesis question from exam practice, focusing on
 ---
 
 ### 📂 GitHub Solution Link  
-[https://github.com/KorrapoluEswarAdithya/HDLBits-Verilog-Solutions/blob/main/Exams/2012_q2fsm.sv](https://github.com/KorrapoluEswarAdithya/HDLBits-Verilog-Solutions/blob/main/Exams/2012_q2fsm.sv)
+[https://github.com/KorrapoluEswarAdithya/HDLBits-Verilog-Solutions/blob/main/Exams/2012_q2fsm.sv](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.30%20Q2a%3A%20FSM/2012_q2fsm.v)
 
 ---
 
