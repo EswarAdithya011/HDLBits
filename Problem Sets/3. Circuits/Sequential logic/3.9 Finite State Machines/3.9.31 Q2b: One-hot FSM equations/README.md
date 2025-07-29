@@ -32,7 +32,7 @@ For a one-hot encoded FSM, the next-state logic for each state is derived by sum
 ---
 
 **💾 GitHub Solution Link:**  
-[GitHub - HDLBits Solutions by Eswar](https://github.com/korrapolueswar/HDLBits-verilog-practice/blob/main/Exams/exams_2012_q2b.sv)
+[GitHub - HDLBits Solutions by Eswar](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.31%20Q2b%3A%20One-hot%20FSM%20equations/2012_q2b.sv)
 
 ---
 
