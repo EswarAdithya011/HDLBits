@@ -4,7 +4,6 @@
 ---
 
 ### 📄 Problem Statement  
-From: **HDLBits – [Exams/2012_q2fsm](https://hdlbits.01xz.net/wiki/Exams/2012_q2fsm)**  
 Given a 6-state FSM diagram, write a complete Verilog code that models the finite state machine. The FSM should be implemented using:
 - Separate always blocks for **state transition logic** and **state register**.
 - The output `z` can be implemented using either a continuous assignment or an always block.
