@@ -26,4 +26,4 @@ Consider a finite state machine used to control a motor. The FSM has inputs `x` 
 [HDLBits - Exams/2013_q2bfsm](https://hdlbits.01xz.net/wiki/Exams/2013_q2bfsm)
 
 ### GitHub Solution Link:  
-[GitHub - HDLBits Solutions Repository](https://github.com/eswardi/HDLBits_Solutions/blob/main/FSM/exams_2013_q2bfsm.v)
+[GitHub - HDLBits Solutions Repository](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.33%20Q2b%3A%20Another%20FSM/2013_q2bfsm.sv)
