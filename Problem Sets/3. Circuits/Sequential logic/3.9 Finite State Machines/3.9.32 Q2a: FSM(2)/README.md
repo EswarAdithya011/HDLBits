@@ -16,7 +16,7 @@ This FSM acts as an **arbiter circuit**, controlling access to a shared resource
 - **Grant Output**: Depends on state → `g[i] = 1` if in grant state for device `i`.
 - **Design Pattern**: Synchronous reset, state register + next state logic, output logic separated.
 
-<img width="500" height="741" alt="image" src="https://github.com/user-attachments/assets/4ce91a15-6fe6-42a3-be8d-62a5e1b173b2" />
+<img width="300" height="741" alt="image" src="https://github.com/user-attachments/assets/4ce91a15-6fe6-42a3-be8d-62a5e1b173b2" />
 
 ---
 
@@ -26,7 +26,7 @@ This FSM acts as an **arbiter circuit**, controlling access to a shared resource
 ---
 
 ### 💻 GitHub Solution Link  
-[GitHub – FSM: 3-Device Arbiter (exams/2013_q2afsm)](https://github.com/KorrapoluEswarAdithya/SystemVerilog-Practice/blob/main/HDLBits/Exams/2013_q2afsm.sv)
+[GitHub – FSM: 3-Device Arbiter (exams/2013_q2afsm)](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Sequential%20logic/3.9%20Finite%20State%20Machines/3.9.32%20Q2a%3A%20FSM(2)/2013_q2afsm.v)
 
 <img width="500" height="447" alt="image" src="https://github.com/user-attachments/assets/d783729d-5ba0-4c30-be1e-02183daf9d7b" />
 
