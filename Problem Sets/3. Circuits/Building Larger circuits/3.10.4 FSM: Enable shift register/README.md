@@ -20,7 +20,7 @@ Design a finite state machine (FSM) that asserts an output signal `shift_ena` fo
 [HDLBits - exams/review2015_fsmshift](https://hdlbits.01xz.net/wiki/Exams/review2015_fsmshift)
 
 ### GitHub Solution Link:  
-[GitHub - HDLBits Solutions Repository](https://github.com/eswardi/HDLBits_Solutions/blob/main/FSM/exams_review2015_fsmshift.v)
+[GitHub - HDLBits Solutions Repository](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Building%20Larger%20circuits/3.10.4%20FSM%3A%20Enable%20shift%20register/review2015_fsmshift.v)
 
 ### Design Note:
 - This FSM works as a **post-reset trigger** to enable operations in a shift register for a limited time.
