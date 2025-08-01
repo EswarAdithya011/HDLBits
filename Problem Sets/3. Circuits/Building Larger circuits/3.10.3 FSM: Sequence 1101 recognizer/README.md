@@ -25,7 +25,7 @@ This FSM is part of a larger system and will be extended in later exercises.
 [HDLBits - exams/review2015_fsmseq](https://hdlbits.01xz.net/wiki/Exams/review2015_fsmseq)
 
 ### GitHub Solution Link:  
-[GitHub - HDLBits Solutions Repository](https://github.com/eswardi/HDLBits_Solutions/blob/main/FSM/exams_review2015_fsmseq.v)
+[GitHub - HDLBits Solutions Repository](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Building%20Larger%20circuits/3.10.3%20FSM%3A%20Sequence%201101%20recognizer/review2015_fsmseq.v)
 
 <img width="500" height="525" alt="image" src="https://github.com/user-attachments/assets/6f6074b2-ee3a-4cb9-81d7-edfd36858696" />
 
