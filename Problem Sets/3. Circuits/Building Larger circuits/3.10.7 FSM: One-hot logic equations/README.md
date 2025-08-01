@@ -32,4 +32,4 @@ You are required to derive **next-state and output logic equations** **by inspec
 [HDLBits – Exams/review2015_fsmonehot](https://hdlbits.01xz.net/wiki/Exams/review2015_fsmonehot)
 
 **GitHub Solution Link:**  
-[GitHub – FSM One-Hot by Inspection](https://github.com/KorrapoluEswarAdithya/SystemVerilog-FSM-Designs/blob/main/exams/review2015_fsmonehot.sv)
+[GitHub – FSM One-Hot by Inspection](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Building%20Larger%20circuits/3.10.7%20FSM%3A%20One-hot%20logic%20equations/review2015_fsmonehot.v)
