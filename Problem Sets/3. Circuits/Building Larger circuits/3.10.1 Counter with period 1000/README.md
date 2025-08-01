@@ -17,7 +17,7 @@ Build a counter that counts from 0 to 999 (inclusive) with a period of 1000 cycl
 - The counter should wrap around from 999 to 0.
 - Reset must override counting only **on the rising edge** of the clock.
 
-<img width="500" height="149" alt="image" src="https://github.com/user-attachments/assets/7d29bdb9-90f7-4ced-9a96-bfc0a2f840dc" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/7d29bdb9-90f7-4ced-9a96-bfc0a2f840dc" />
 
 ### HDLBits Link:  
 [HDLBits - exams/review2015_count1k](https://hdlbits.01xz.net/wiki/Exams/review2015_count1k)
