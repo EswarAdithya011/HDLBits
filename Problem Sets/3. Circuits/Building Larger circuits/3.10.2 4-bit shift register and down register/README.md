@@ -22,7 +22,7 @@ Design a 4-bit register that functions both as a shift register and as a down co
 [HDLBits - exams/review2015_shiftcount](https://hdlbits.01xz.net/wiki/Exams/review2015_shiftcount)
 
 ### GitHub Solution Link:  
-[GitHub - HDLBits Solutions Repository](https://github.com/eswardi/HDLBits_Solutions/blob/main/FSM/exams_review2015_shiftcount.v)
+[GitHub - HDLBits Solutions Repository](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Building%20Larger%20circuits/3.10.2%204-bit%20shift%20register%20and%20down%20register/review2015_shiftcount.v)
 
 <img width="500" height="563" alt="image" src="https://github.com/user-attachments/assets/423ed69b-120c-46a9-bf97-bbcce1938425" />
 
