@@ -27,7 +27,7 @@ Design a complex finite state machine (FSM) that behaves as a **fancy timer**. T
 [HDLBits - exams/review2015_fancytimer](https://hdlbits.01xz.net/wiki/Exams/review2015_fancytimer)
 
 ### GitHub Solution Link:  
-[GitHub - HDLBits Solutions Repository](https://github.com/eswardi/HDLBits_Solutions/blob/main/FSM/exams_review2015_fancytimer.v)
+[GitHub - HDLBits Solutions Repository](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Building%20Larger%20circuits/3.10.6%20The%20complete%20timer/review2015_fancytimer.v)
 
 ### Design Note:
 - The timer functions as a hybrid of state machine and datapath control:
