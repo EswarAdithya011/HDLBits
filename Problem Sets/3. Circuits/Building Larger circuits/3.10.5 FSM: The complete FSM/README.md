@@ -26,7 +26,7 @@ The FSM must reset into a state where it begins looking for `1101`.
 [HDLBits - exams/review2015_fsm](https://hdlbits.01xz.net/wiki/Exams/review2015_fsm)
 
 ### GitHub Solution Link:  
-[GitHub - HDLBits FSM Timer Controller](https://github.com/eswardi/HDLBits_Solutions/blob/main/FSM/exams_review2015_fsm.v)
+[GitHub - HDLBits FSM Timer Controller](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Building%20Larger%20circuits/3.10.5%20FSM%3A%20The%20complete%20FSM/review2015_fsm.v)
 
 ### Design Note:
 - This FSM consolidates earlier modules: the sequence recognizer (`fsmseq`) and the 4-cycle shift enabler (`fsmshift`).
