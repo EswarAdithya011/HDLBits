@@ -23,7 +23,7 @@ Build a counter that counts from 0 to 999 (inclusive) with a period of 1000 cycl
 [HDLBits - exams/review2015_count1k](https://hdlbits.01xz.net/wiki/Exams/review2015_count1k)
 
 ### GitHub Solution Link:  
-[GitHub - HDLBits Solutions Repository](https://github.com/eswardi/HDLBits_Solutions/blob/main/FSM/exams_review2015_count1k.v)
+[GitHub - HDLBits Solutions Repository](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/3.%20Circuits/Building%20Larger%20circuits/3.10.1%20Counter%20with%20period%201000/review2015_count1k.v)
 
 <img width="500" height="469" alt="image" src="https://github.com/user-attachments/assets/bd9005d8-fad1-41fd-983e-5bae88cfe88d" />
 
