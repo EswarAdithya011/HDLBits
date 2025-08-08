@@ -7,7 +7,7 @@ This 8-bit adder-subtractor with a zero detection output is not functioning corr
 To perform subtraction using addition logic, the 2’s complement of `b` is added when `do_sub = 1`. This requires XORing `b` with `do_sub` and adding `do_sub` as the carry-in. The result is then checked to assert the `result_is_zero` flag.
 
 **HDLBits Link:**  
-[Link](https://hdlbits.01xz.net/wiki/Exams/review2015_bugs_addsubz)
+[Link](https://hdlbits.01xz.net/wiki/Bugs_case)
 
 **GitHub Solution Link:**  
 [Link](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Verification%3A%20Reading%20Simulations/4.1%20Finding%20bugs%20in%20code/4.1.4%20Add-sub/bugs_addsubz.v)
