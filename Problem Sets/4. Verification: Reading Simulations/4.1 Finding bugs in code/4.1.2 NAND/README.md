@@ -8,10 +8,10 @@ You're required to implement a 3-input NAND gate using a provided 5-input AND ga
 A NAND gate outputs the inverse of an AND gate. To implement a 3-input NAND using a 5-input AND gate, feed the remaining unused inputs with logic high (`1`) and invert the output of the AND gate.
 
 **HDLBits Link:**  
-[https://hdlbits.01xz.net/wiki/Exams/review2015_bugs_nand3](https://hdlbits.01xz.net/wiki/Exams/review2015_bugs_nand3)
+[Link](https://hdlbits.01xz.net/wiki/Exams/review2015_bugs_nand3)
 
 **GitHub Solution Link:**  
-[https://github.com/KorrapoluEswarAdithya/HDLBits-Solutions/blob/main/Bug-Fix/bugs_nand3.v](https://github.com/KorrapoluEswarAdithya/HDLBits-Solutions/blob/main/Bug-Fix/bugs_nand3.v)
+[Link](https://github.com/KorrapoluEswarAdithya/HDLBits-Solutions/blob/main/Bug-Fix/bugs_nand3.v)
 
 <img width="500" height="461" alt="image" src="https://github.com/user-attachments/assets/1410ceb6-e57c-4fd4-938a-737d8c846727" />
 
