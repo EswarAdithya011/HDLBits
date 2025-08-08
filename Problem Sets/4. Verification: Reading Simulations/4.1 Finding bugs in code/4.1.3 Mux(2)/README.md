@@ -11,7 +11,7 @@ A 4-to-1 multiplexer can be built hierarchically using three 2-to-1 multiplexers
 [Link](https://hdlbits.01xz.net/wiki/Exams/review2015_bugs_mux4)
 
 **GitHub Solution Link:**  
-[Link](https://github.com/KorrapoluEswarAdithya/HDLBits-Solutions/blob/main/Bug-Fix/bugs_mux4.v)
+[Link](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Verification%3A%20Reading%20Simulations/4.1%20Finding%20bugs%20in%20code/4.1.3%20Mux(2)/bugs_mux4.v)
 
 <img width="500" height="548" alt="image" src="https://github.com/user-attachments/assets/afdf17af-14c5-4b13-96ca-2e03eb17fdcf" />
 
