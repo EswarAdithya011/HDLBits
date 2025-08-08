@@ -10,7 +10,7 @@ Keyboard scancodes for keys `0` to `9` range from `8'h45` to `8'h4D`. The fix in
 [Link](https://hdlbits.01xz.net/wiki/Bugs_case)
 
 **GitHub Solution Link:**  
-[Link](https://github.com/KorrapoluEswarAdithya/HDLBits-Solutions/blob/main/Bug-Fix/bugs_case.v)
+[Link](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Verification%3A%20Reading%20Simulations/4.1%20Finding%20bugs%20in%20code/4.1.5%20Case%20statement/bugs_case.v)
 
 <img width="500" height="457" alt="image" src="https://github.com/user-attachments/assets/bbce719f-c319-451a-9add-3b0ccbec0f8a" />
 
