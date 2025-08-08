@@ -8,7 +8,7 @@ You're provided a bug-free 2-to-1 multiplexer module `mux2`. The task is to buil
 A 4-to-1 multiplexer can be built hierarchically using three 2-to-1 multiplexers. First level selects between `a`/`b` and `c`/`d` using `sel[0]`, then the final stage selects between those two using `sel[1]`.
 
 **HDLBits Link:**  
-[Link](https://hdlbits.01xz.net/wiki/Exams/review2015_bugs_mux4)
+[Link](https://hdlbits.01xz.net/wiki/Bugs_mux4)
 
 **GitHub Solution Link:**  
 [Link](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Verification%3A%20Reading%20Simulations/4.1%20Finding%20bugs%20in%20code/4.1.3%20Mux(2)/bugs_mux4.v)
