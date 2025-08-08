@@ -11,7 +11,7 @@ This is a basic example of a structural design bug. A correct 2-to-1 multiplexer
 [https://hdlbits.01xz.net/wiki/Exams/review2015_bugs_mux2](https://hdlbits.01xz.net/wiki/Exams/review2015_bugs_mux2)
 
 **GitHub Solution Link:**  
-[https://github.com/KorrapoluEswarAdithya/HDLBits-Solutions/blob/main/Bug-Fix/bugs_mux2.v](https://github.com/KorrapoluEswarAdithya/HDLBits-Solutions/blob/main/Bug-Fix/bugs_mux2.v)
+[https://github.com/KorrapoluEswarAdithya/HDLBits-Solutions/blob/main/Bug-Fix/bugs_mux2.v](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Verification%3A%20Reading%20Simulations/4.1%20Finding%20bugs%20in%20code/4.1.1%20Mux/bugs_mux2.v)
 
 <img width="500" height="456" alt="image" src="https://github.com/user-attachments/assets/d328b79c-de0e-4183-ac2f-297ff351ca6c" />
 
