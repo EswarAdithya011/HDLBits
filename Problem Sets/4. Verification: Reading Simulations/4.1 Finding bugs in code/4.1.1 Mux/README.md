@@ -8,7 +8,7 @@ You are provided with a module that is supposed to implement a standard 8-bit 2-
 This is a basic example of a structural design bug. A correct 2-to-1 multiplexer outputs `a` when `sel` is 0, and `b` when `sel` is 1.  
 
 **HDLBits Link:**  
-[Link](https://hdlbits.01xz.net/wiki/Exams/review2015_bugs_mux2)
+[Link](https://hdlbits.01xz.net/wiki/Bugs_mux2)
 
 **GitHub Solution Link:**  
 [Link](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Verification%3A%20Reading%20Simulations/4.1%20Finding%20bugs%20in%20code/4.1.1%20Mux/bugs_mux2.v)
