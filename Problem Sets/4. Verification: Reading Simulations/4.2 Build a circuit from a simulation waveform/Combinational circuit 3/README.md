@@ -15,9 +15,3 @@ This task focuses on waveform analysis to reconstruct the Boolean expression tha
 [Link](https://github.com/KorrapoluEswarAdithya/HDLBits-Solutions/blob/main/Simulation/sim_circuit3.v)
 
 <img width="500" height="496" alt="image" src="https://github.com/user-attachments/assets/f731871d-3aba-4b41-8e74-be471e5e60d6" />
-
-**Design Note**  
-From waveform inspection, the circuit’s output is high only when either `a` or `b` is high **and** either `c` or `d` is high. This leads to the Boolean equation:  
-\[
-q = (a \lor b) \land (c \lor d)
-\]
