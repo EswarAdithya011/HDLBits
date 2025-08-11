@@ -12,6 +12,6 @@ This task focuses on waveform analysis to reconstruct the Boolean expression tha
 <img width="500" height="357" alt="image" src="https://github.com/user-attachments/assets/87299776-420e-45dc-86a5-1f3cd23bedf0" />
 
 **GitHub Solution Link:**  
-[Link](https://github.com/KorrapoluEswarAdithya/HDLBits-Solutions/blob/main/Simulation/sim_circuit3.v)
+[Link](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Verification%3A%20Reading%20Simulations/4.2%20Build%20a%20circuit%20from%20a%20simulation%20waveform/Combinational%20circuit%203/circuit3.v)
 
 <img width="500" height="496" alt="image" src="https://github.com/user-attachments/assets/f731871d-3aba-4b41-8e74-be471e5e60d6" />
