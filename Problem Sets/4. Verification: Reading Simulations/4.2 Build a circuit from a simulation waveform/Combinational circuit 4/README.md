@@ -12,6 +12,6 @@ This exercise emphasizes logic deduction from waveform behavior. Observing when 
 <img width="500" height="367" alt="image" src="https://github.com/user-attachments/assets/2a949199-bb6a-4ce6-a7a3-8e01ceba8eb5" />
 
 **GitHub Solution Link:**  
-[Link](https://github.com/KorrapoluEswarAdithya/HDLBits-Solutions/blob/main/Simulation/sim_circuit4.v)
+[Link](https://github.com/EswarAdithya011/HDLBits/blob/main/Problem%20Sets/4.%20Verification%3A%20Reading%20Simulations/4.2%20Build%20a%20circuit%20from%20a%20simulation%20waveform/Combinational%20circuit%204/circuit4.v)
 
 <img width="500" height="498" alt="image" src="https://github.com/user-attachments/assets/dd4db593-991e-4e9d-89f6-68732bde8bfb" />
